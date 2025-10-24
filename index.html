@@ -1,0 +1,261 @@
+<!DOCTYPE html><html lang="en"><head>
+  
+  
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="None">
+    
+    
+    <link rel="shortcut icon" href="./img/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <title>My Video Game Collection</title>
+    <link href="./css/bootstrap-3.3.7.min.css" rel="stylesheet">
+    <link href="./css/font-awesome-4.7.0.css" rel="stylesheet">
+    <link href="./css/base.css" rel="stylesheet">
+    <link rel="stylesheet" href="./css/highlight.css">
+    <link href="css/style.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="./js/jquery-3.2.1.min.js"></script>
+    <script src="./js/bootstrap-3.3.7.min.js"></script>
+    <script src="./js/highlight.pack.js"></script>
+    
+      <script src="./js/elasticlunr.min.js"></script>
+    
+    <base target="_top">
+    <script>
+      var base_url = '.';
+      var is_top_frame = (window === window.parent);
+        
+        var pageToc = [
+          {title: "Types of editions", url: "#_top", children: [
+          ]},
+        ];
+
+    </script>
+    <script src="./js/base.js"></script> 
+<link href="assets/stylesheets/glightbox.min.css" rel="stylesheet"><script src="assets/javascripts/glightbox.min.js"></script><style id="glightbox-style">
+            html.glightbox-open { overflow: initial; height: 100%; }
+            .gslide-title { margin-top: 0px; user-select: text; }
+            .gslide-desc { color: #666; user-select: text; }
+            .gslide-image img { background: white; }
+        </style></head>
+
+<body>
+<script>
+if (is_top_frame) { $('body').addClass('wm-top-page'); }
+</script>
+
+<nav class="navbar wm-page-top-frame">
+  <div class="container-fluid wm-top-container">
+    
+    <div class="wm-top-tool pull-right wm-vcenter">
+      <form class="dropdown wm-vcentered" id="wm-search-form" action="./search.html">
+        
+        <button id="wm-search-show" class="btn btn-sm btn-default" type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>
+
+        <div class="input-group input-group-sm wm-top-search">
+          <input type="text" name="q" class="form-control" id="mkdocs-search-query" placeholder="Search" autocomplete="off">
+          <span class="input-group-btn" role="search">
+            
+            <button class="btn btn-default dropdown-toggle collapse" data-toggle="dropdown" type="button"><span class="caret"></span></button>
+            <ul id="mkdocs-search-results" class="dropdown-menu dropdown-menu-right"></ul>
+            <button id="wm-search-go" class="btn btn-default" type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>
+          </span>
+        </div>
+      </form>
+    </div>
+
+    
+    <div class="wm-top-tool wm-vcenter pull-right wm-small-left">
+      <button id="wm-toc-button" type="button" class="btn btn-sm btn-default wm-vcentered"><i class="fa fa-th-list" aria-hidden="true"></i></button>
+    </div>
+
+    
+    
+
+    
+    <a href="" class="wm-top-brand wm-top-link wm-vcenter">
+      
+        <img class="wm-top-logo" src="./img/logo.png">
+      
+      <div class="wm-top-title">
+        My Video Game Collection<br>
+        
+      </div>
+    </a>
+  </div>
+</nav>
+
+  <div id="main-content" class="wm-page-top-frame">
+    
+<nav class="wm-toc-pane">
+  
+  <ul class="wm-toctree">
+        <li class="wm-toc-li wm-toc-lev1 "><a href="" class="wm-article-link wm-toc-text">Home</a>
+</li>
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">Nintendo</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev2 "><a href="Games/Nintendo/Switch/" class="wm-article-link wm-toc-text">Switch</a>
+</li>
+  </ul>
+</li>
+
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">PC</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev2 "><a href="Games/PC/bigbox/" class="wm-article-link wm-toc-text">BigBox</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="Games/PC/dvdbox/" class="wm-article-link wm-toc-text">DVDBox</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="Games/PC/jawel/" class="wm-article-link wm-toc-text">Jewel Case</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="Games/PC/middlebox/" class="wm-article-link wm-toc-text">MiddleBox</a>
+</li>
+  </ul>
+</li>
+
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">Playstation</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev2 "><a href="Games/Playstation/PS2_games/" class="wm-article-link wm-toc-text">PS2</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="Games/Playstation/PS3_games/" class="wm-article-link wm-toc-text">PS3</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="Games/Playstation/PS4_games/" class="wm-article-link wm-toc-text">PS4</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="Games/Playstation/PSVita_games/" class="wm-article-link wm-toc-text">PSVita</a>
+</li>
+  </ul>
+</li>
+
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">XBox</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev2 "><a href="Games/XBox/XBox_Original_games/" class="wm-article-link wm-toc-text">XBox Original</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="Games/XBox/XBox_360_games/" class="wm-article-link wm-toc-text">XBox 360</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="Games/XBox/XBox_One_Series_games/" class="wm-article-link wm-toc-text">XBox One/Series</a>
+</li>
+  </ul>
+</li>
+
+        <li class="wm-toc-li wm-toc-lev1 "><a href="about/" class="wm-article-link wm-toc-text">About</a>
+</li>
+  </ul>
+</nav>
+
+    <div class="wm-content-pane">
+      <iframe class="wm-article" name="article"></iframe>
+    </div>
+  </div>
+
+<div class="container-fluid wm-page-content">
+  <a name="_top"></a>
+    
+
+    <h3 id="types-of-editions">Types of editions</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Value</th>
+<th style="text-align: center;">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">AC</td>
+<td style="text-align: center;">Anniversary Collection</td>
+</tr>
+<tr>
+<td style="text-align: center;">AR</td>
+<td style="text-align: center;">Arcade Edition</td>
+</tr>
+<tr>
+<td style="text-align: center;">CE</td>
+<td style="text-align: center;">Complete Edition</td>
+</tr>
+<tr>
+<td style="text-align: center;">DE</td>
+<td style="text-align: center;">Definitive Edition</td>
+</tr>
+<tr>
+<td style="text-align: center;">DO</td>
+<td style="text-align: center;">Day One Edition</td>
+</tr>
+<tr>
+<td style="text-align: center;">DX</td>
+<td style="text-align: center;">Delux Edition</td>
+</tr>
+<tr>
+<td style="text-align: center;">EC</td>
+<td style="text-align: center;">Eternal Collection</td>
+</tr>
+<tr>
+<td style="text-align: center;">EE</td>
+<td style="text-align: center;">Enhanced Edition</td>
+</tr>
+<tr>
+<td style="text-align: center;">GE</td>
+<td style="text-align: center;">Gold Edition</td>
+</tr>
+<tr>
+<td style="text-align: center;">GOTY</td>
+<td style="text-align: center;">Game Of The Year Edition</td>
+</tr>
+<tr>
+<td style="text-align: center;">HDC</td>
+<td style="text-align: center;">HD Collection</td>
+</tr>
+<tr>
+<td style="text-align: center;">LAE</td>
+<td style="text-align: center;">Launch Edition</td>
+</tr>
+<tr>
+<td style="text-align: center;">LE</td>
+<td style="text-align: center;">Legendary Edition</td>
+</tr>
+<tr>
+<td style="text-align: center;">LC</td>
+<td style="text-align: center;">Legendary Collection</td>
+</tr>
+<tr>
+<td style="text-align: center;">LME</td>
+<td style="text-align: center;">Limited Edition</td>
+</tr>
+<tr>
+<td style="text-align: center;">SE</td>
+<td style="text-align: center;">Special Edition</td>
+</tr>
+<tr>
+<td style="text-align: center;">UE</td>
+<td style="text-align: center;">Ultimate Edition</td>
+</tr>
+</tbody>
+</table>
+
+  <br>
+</div>
+
+<footer class="container-fluid wm-page-content">
+  <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a> using <a href="https://github.com/gristlabs/mkdocs-windmill">Windmill</a> theme by Grist Labs.</p>
+</footer>
+
+
+
+<script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+</script></body></html><!--
+MkDocs version : 1.6.1
+Build Date UTC : 2025-10-24 15:16:01.272372+00:00
+-->
