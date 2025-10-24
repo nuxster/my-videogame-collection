@@ -1,6 +1,6 @@
 # The repository contains a list of games from my video games collection and games that I would like to add to my collection.
 
-[Web UI](https://my-video-game-collection-nuxster-768e3dac59de3bc9a4759b027f61e4.gitlab.io/)
+[Web UI](https://nuxster.github.io/my-videogame-collection/)
 
 **Xbox**
 ----
