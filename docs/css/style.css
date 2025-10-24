@@ -1,0 +1,11 @@
+.wm-page-content {
+    max-width: 90%;
+}
+
+.wm-page-content img {
+    max-width: 200px;
+}
+
+footer {
+    font-size: 0;
+}

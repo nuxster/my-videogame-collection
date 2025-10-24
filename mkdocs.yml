@@ -1,0 +1,51 @@
+site_name: My Video Game Collection
+
+nav:
+  - Home: index.md
+  - 'Nintendo':
+    - 'Switch': Games/Nintendo/Switch.md
+  - 'PC':
+    - 'BigBox': Games/PC/bigbox.md
+    - 'DVDBox': Games/PC/dvdbox.md
+    - 'Jewel Case': Games/PC/jawel.md
+    - 'MiddleBox': Games/PC/middlebox.md
+  - 'Playstation':
+    - 'PS2': Games/Playstation/PS2_games.md
+    - 'PS3': Games/Playstation/PS3_games.md
+    - 'PS4': Games/Playstation/PS4_games.md
+    - 'PSVita': Games/Playstation/PSVita_games.md
+  - 'XBox':
+    - 'XBox Original': Games/XBox/XBox_Original_games.md
+    - 'XBox 360': Games/XBox/XBox_360_games.md
+    - 'XBox One/Series': Games/XBox/XBox_One_Series_games.md
+  - About: about.md
+
+theme:
+  name: windmill
+
+extra:
+  article_nav_top: false
+  article_nav_bottom: false
+  logo: img/logo.png
+
+extra_css:
+  - css/style.css
+
+plugins:
+  - search:
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
+      skip_classes:
+        - custom-skip-class-name
+      auto_caption: false
+      caption_position: bottom
+      background: white
+      shadow: true
+      manual: false
