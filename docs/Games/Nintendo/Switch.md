@@ -28,6 +28,7 @@
 |  [ ]   | Contra AC                     |           |                               |                                                             |
 |  [+]   | Contra: Rogue Corps           | Sealed    | HAC-P-ATCFA 27104-CS          | ![cover](./covers/Switch/HAC-P-ATCFA_27104-CS.jpg)          |
 |  [ ]   | Cuphead                       |           |                               |                                                             |
+|  [ ]   | Cyber Shadow                  | Sealed    | Super Rare 128                | ![cover](./covers/Switch/Super_Rare_128.jpg)                |
 
 ### D
 | Status | The names of the games                    | Condition |         Serial number         |                           Covers                            |
@@ -102,15 +103,29 @@
 | Status | The names of the games                     | Condition | Serial number                 | Covers                                                      |
 |:------:|:-------------------------------------------|:---------:|:-----------------------------:|:-----------------------------------------------------------:|
 |  [+]   | Mega Man 11                                | Sealed    | HAC-P-ALGCA 41006E            | ![cover](./covers/Switch/HAC-P-ALGCA_41006E.jpg)            |
-|  [ ]   | Mega Man Battle Network Legacy Collection  |           |                               |                                                             |
-|  [ ]   | Mega Man Legacy Collection                 |           |                               |                                                             |
-|  [ ]   | Mega Man Legacy Collection 2               |           |                               |                                                             |
+|  [+]   | Mega Man Battle Network Legacy Collection  | Sealed    | HAC-P-A8H2A 41030E            | ![cover](./covers/Switch/HAC-P-A8H2A_41030E.jpg)            |
+|  [+]   | Mega Man Legacy Collection 1+2             | Sealed    | HAC-P-AKRVA 41002E            | ![cover](./covers/Switch/HAC-P-AKRVA_41002E.jpg)            |
 |  [+]   | Mega Man X Legacy Collection 1+2           | Sealed    | HAC-P-ALGGA 41004E            | ![cover](./covers/Switch/HAC-P-ALGGA_41004E.jpg)            |
 |  [+]   | Mega Man Zero/ZX Legacy Collection         | Sealed    | HAC-P-AS4UA 41018E            | ![cover](./covers/Switch/HAC-P-AS4UA_41018E.jpg)            |
 |  [+]   | Metroid Dread                              | Sealed    | HAC-P-AYL8A TRA-HAC-AYL8A-ITA | ![cover](./covers/Switch/HAC-P-AYL8A_TRA-HAC-AYL8A-ITA.jpg) |
 |  [ ]   | Metroid Prime 4                            |           |                	              |                                                             |
 |  [+]   | Metroid Prime Remastered                   | Sealed    | HAC-P-A3SDA TRA-HAC-A3SDA-UKV | ![cover](./covers/Switch/HAC-P-A3SDA_TRA-HAC-A3SDA-UKV.jpg) |
 |  [ ]   | Metal Gear Solid: Master Collection Vol. 1 |           |                               |
+
+### N
+| Status | The names of the games                     | Condition | Serial number                 | Covers                                                      |
+|:------:|:-------------------------------------------|:---------:|:-----------------------------:|:-----------------------------------------------------------:|
+|  [+]   | NEOGEO Selection Vol.1                     | Sealed    | HAC-P-BK44A TRA-HAC-BK44A-JPN | ![cover](./covers/Switch/HAC-P-BK44A_TRA-HAC-BK44A-JPN.jpg) |
+|  [+]   | NEOGEO Selection Vol.2                     | Sealed    | HAC-P-BK45A TRA-HAC-BK45A-JPN | ![cover](./covers/Switch/HAC-P-BK45A_TRA-HAC-BK45A-JPN.jpg) |
+|  [+]   | NEOGEO Selection Vol.3                     | Sealed    | HAC-P-BMRHA TRA-HAC-BMRHA-JPN | ![cover](./covers/Switch/HAC-P-BMRHA_TRA-HAC-BMRHA-JPN.jpg) |
+|  [+]   | NEOGEO Selection Vol.4                     | Sealed    | HAC-P-BMRJA TRA-HAC-BMRJA-JPN | ![cover](./covers/Switch/HAC-P-BMRJA_TRA-HAC-BMRJA-JPN.jpg) |
+|  [ ]   | NEOGEO Selection Vol.5                     |           |                               |                                                             |
+|  [ ]   | NEOGEO Selection Vol.6                     |           |                               |                                                             |
+|  [ ]   | NEOGEO Selection Vol.7                     |           |                               |                                                             |
+|  [ ]   | NEOGEO Selection Vol.8                     |           |                               |                                                             |
+|  [ ]   | NEOGEO Selection Vol.9                     |           |                               |                                                             |
+|  [ ]   | NEOGEO Selection Vol.10                    |           |                               |                                                             |
+|  [+]   | Ninja Gaiden: Ragebound                    | Sealed    | HAC-P-BLC6A TSA-HAC-BLC6A-EUR | ![cover](./covers/Switch/HAC-P-BLC6A_TSA-HAC-BLC6A-EUR.jpg) |
 
 ### O
 | Status | The names of the games  | Condition |         Serial number         |                           Covers                            |
