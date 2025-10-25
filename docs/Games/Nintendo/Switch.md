@@ -158,15 +158,16 @@
 |  [ ]   | SEGA Mega Drive Classics                   |           |                                    |                                                                 |
 |  [+]   | Shotgun King                               | Sealed    | HAC-P-A9WYA TSA-HAC-A9WYA-EUR      | ![cover](./covers/Switch/HAC-P-A9WYA_TSA-HAC-A9WYA-EUR.jpg)     |
 |  [+]   | Showel Knight                              | Sealed    | HAC-P-AB7PA TSA-HAC-AB7PA-UKV      | ![cover](./covers/Switch/HAC-P-AB7PA_TSA-HAC-AB7PA-UKV.jpg)     |
-|  [+]   | Signalis                                   | Sealed    | HAC-P-A896A TSA-HAC-A896A-UKV      | ![cover](./covers/Switch/HAC-P-A896A_TSA-HAC-A896A-UKV.jpg)     |
-|  [ ]   | Syberia                                    |           |                                    |                                                                 |
-|  [+]   | Syberia 2                                  | Sealed    | HAC-P-AD78A TSA-HAC-AD78A-EUZ      | ![cover](./covers/Switch/HAC-P-AD78A_TSA-HAC-AD78A-EUZ.jpg)     |
-|  [+]   | Syberia 3                                  | Sealed    | HAC-P-AFLPA TSA-HAC-AFLPA-EUR      | ![cover](./covers/Switch/HAC-P-AFLPA_TSA-HAC-AFLPA-EUR.jpg)     |
+|  [+]   | Signalis                                   | Sealed    | HAC-P-A896A TSA-HAC-A896A-UKV      | ![cover](./covers/switch/HAC-P-A896A_TSA-HAC-A896A-UKV.jpg)     |
+|  [+]   | SNK 40th Anniversary Collection            | Sealed    | HAC-P-AP3TA TSA-HAC-AP3TA-UKV      | ![cover](./covers/switch/HAC-P-AP3TA_TSA-HAC-AP3TA-UKV.jpg)     |
 |  [+]   | S.T.A.L.K.E.R.: Legends of Zone            | Sealed    | HAC-P-BMJJA(JPN) TSA-HAC-BMJJA-JPN | ![cover](./covers/Switch/HAC-P-BMJJA-JPN_TSA-HAC-BMJJA-JPN.jpg) |
 |  [ ]   | Star Wars: Racer and Commando Combo        |           |                                    |                                                                 |
 |  [ ]   | Star Wars: Jedi Knight Collection          |           |                                    |                                                                 |
 |  [ ]   | Star Wars: Republic Commando               |           |                                    |                                                                 |
 |  [+]   | Super Meat Boy                             | Sealed    | HAC-P-AHNXA LR028CVR               | ![cover](./covers/Switch/HAC-P-AHNXA_LR028CVR.jpg)              |
+|  [ ]   | Syberia                                    |           |                                    |                                                                 |
+|  [+]   | Syberia 2                                  | Sealed    | HAC-P-AD78A TSA-HAC-AD78A-EUZ      | ![cover](./covers/Switch/HAC-P-AD78A_TSA-HAC-AD78A-EUZ.jpg)     |
+|  [+]   | Syberia 3                                  | Sealed    | HAC-P-AFLPA TSA-HAC-AFLPA-EUR      | ![cover](./covers/Switch/HAC-P-AFLPA_TSA-HAC-AFLPA-EUR.jpg)     |
      
 ### T
 | Status | The names of the games                                 | Condition |           Serial number            |                             Covers                              |
