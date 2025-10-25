@@ -58,6 +58,7 @@
 |  [ ]   | Flashback 2            |           |                               |                                                             |
 |  [+]   | Front Mission 1ST: LME | Sealed    | HAC-P-A7UQA HAC-A7UQA-EUR     | ![cover](./covers/Switch/HAC-P-A7UQA_HAC-A7UQA-EUR.jpg)     |
 |  [+]   | Front Mission 2        | Sealed    |	HAC-P-A9CQA TSA-HAC-A9CQA-EUR | ![cover](./covers/Switch/HAC-P-A9CQA_TSA-HAC-A9CQA-EUR.jpg) |
+|  [ ]   | Front Mission 3        |           |	                              |                                                             |
 
 ### G
 | Status | The names of the games         | Condition | Serial number                 | Covers                                                      |
@@ -159,14 +160,15 @@
 |  [+]   | Shotgun King                               | Sealed    | HAC-P-A9WYA TSA-HAC-A9WYA-EUR      | ![cover](./covers/Switch/HAC-P-A9WYA_TSA-HAC-A9WYA-EUR.jpg)     |
 |  [+]   | Showel Knight                              | Sealed    | HAC-P-AB7PA TSA-HAC-AB7PA-UKV      | ![cover](./covers/Switch/HAC-P-AB7PA_TSA-HAC-AB7PA-UKV.jpg)     |
 |  [+]   | Signalis                                   | Sealed    | HAC-P-A896A TSA-HAC-A896A-UKV      | ![cover](./covers/Switch/HAC-P-A896A_TSA-HAC-A896A-UKV.jpg)     |
-|  [ ]   | Syberia                                    |           |                                    |                                                                 |
-|  [+]   | Syberia 2                                  | Sealed    | HAC-P-AD78A TSA-HAC-AD78A-EUZ      | ![cover](./covers/Switch/HAC-P-AD78A_TSA-HAC-AD78A-EUZ.jpg)     |
-|  [+]   | Syberia 3                                  | Sealed    | HAC-P-AFLPA TSA-HAC-AFLPA-EUR      | ![cover](./covers/Switch/HAC-P-AFLPA_TSA-HAC-AFLPA-EUR.jpg)     |
+|  [+]   | SNK 40th Anniversary Collection            | Sealed    | HAC-P-AP3TA TSA-HAC-AP3TA-UKV      | ![cover](./covers/Switch/HAC-P-AP3TA_TSA-HAC-AP3TA-UKV.jpg)     |
 |  [+]   | S.T.A.L.K.E.R.: Legends of Zone            | Sealed    | HAC-P-BMJJA(JPN) TSA-HAC-BMJJA-JPN | ![cover](./covers/Switch/HAC-P-BMJJA-JPN_TSA-HAC-BMJJA-JPN.jpg) |
 |  [ ]   | Star Wars: Racer and Commando Combo        |           |                                    |                                                                 |
 |  [ ]   | Star Wars: Jedi Knight Collection          |           |                                    |                                                                 |
 |  [ ]   | Star Wars: Republic Commando               |           |                                    |                                                                 |
 |  [+]   | Super Meat Boy                             | Sealed    | HAC-P-AHNXA LR028CVR               | ![cover](./covers/Switch/HAC-P-AHNXA_LR028CVR.jpg)              |
+|  [ ]   | Syberia                                    |           |                                    |                                                                 |
+|  [+]   | Syberia 2                                  | Sealed    | HAC-P-AD78A TSA-HAC-AD78A-EUZ      | ![cover](./covers/Switch/HAC-P-AD78A_TSA-HAC-AD78A-EUZ.jpg)     |
+|  [+]   | Syberia 3                                  | Sealed    | HAC-P-AFLPA TSA-HAC-AFLPA-EUR      | ![cover](./covers/Switch/HAC-P-AFLPA_TSA-HAC-AFLPA-EUR.jpg)     |
      
 ### T
 | Status | The names of the games                                 | Condition |           Serial number            |                             Covers                              |
@@ -187,6 +189,7 @@
 |  [+]   | The Messenger                                          | Sealed    | HAC-P-AQ7PE DD67321C               | ![cover](./covers/Switch/HAC-P-AQ7PE_DD67321C.jpg)              |
 |  [+]   | Toaplan Arcade Garage: KYUKYOKU TIGER-HELO             | Sealed    | HAC-P-BDL3A LRS217                 | ![cover](./covers/Switch/HAC-P-BDL3A_LRS217.jpg)                |
 |  [+]   | Tomb Raider I-II-III Remastered                        | Sealed    | HAC-P-BDHRA TSA-HAC-BDHRA-UKV      | ![cover](./covers/Switch/HAC-P-BDHRA_TSA-HAC-BDHRA-UKV.jpg)     |
+|  [ ]   | Tomb Raider IV-VI-VII Remastered                       |           |                                    |                                                                 |
 |  [+]   | Trigger Witch                                          | Sealed    | HAC-P-A3KYA(ASI) TRA-HAC-A3KYA-ASI | ![cover](./covers/Switch/HAC-P-A3KYA-ASI_TRA-HAC-A3KYA-ASI.jpg) |
 |  [ ]   | Turok: Dinosaur Hunter                                 |           |                                    |                                                                 |
 |  [ ]   | Turok 2: Seeds of Evil                                 |           |                                    |                                                                 |
