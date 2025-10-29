@@ -95,7 +95,7 @@
 |  [+]   | Legacy of Kain: Soul Reaver 1 & 2 Remastered | Sealed    | HAC-P-BELFA TSA-HAC-BELFA-UXP     | ![cover](./covers/Switch/HAC-P-BELFA_TSA-HAC-BELFA-UXP.jpg)     |
 |  [+]   | Little Nightmares 1 CE                       | Sealed    | HAC-P-AEB8A TSA-HAC-AEB8A-UKV     | ![cover](./covers/Switch/HAC-P-AEB8A_TSA-HAC-AEB8A-UKV.jpg)     |
 |  [+]   | Little Nightmares 2 DO                       | Sealed    | HAC-P-AU56A TSA-HAC-AU56A-UKV     | ![cover](./covers/Switch/HAC-P-AU56A_TSA-HAC-AU56A-UKV.jpg)     |
-|  [ ]   | Little Nightmares 3                          |           |                                   |                                                                 |
+|  [+]   | Little Nightmares 3                          | Sealed    | HAC-P-BBNGA TSA-HAC-BBNGA-EUR     | ![cover](./covers/Switch/HAC-P-BBNGA_TSA-HAC-BBNGA-EUR.jpg)     |
 |  [+]   | Lollipop Chainsaw RePOP                      | Sealed    | HAC-P-BBRCA TRA-HAC-BBRCA-JPN     | ![cover](./covers/Switch/HAC-P-BBRCA_TRA-HAC-BBRCA-JPN.jpg)     |
 |  [+]   | Luigi's Mansion 2                            | Sealed    | HAC-P-BANRA-UAE TRA-HAC-BANRA-UAE | ![cover](./covers/Switch/HAC-P-BANRA-UAE_TRA-HAC-BANRA-UAE.jpg) |
 |  [+]   | Luigi's Mansion 3                            | Sealed    | HAC-P-AG3JA TRA-HAC-AG3JA-UKV     | ![cover](./covers/Switch/HAC-P-AG3JA_TRA-HAC-AG3JA-UKV.jpg)     |
