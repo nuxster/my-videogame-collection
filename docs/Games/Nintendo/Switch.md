@@ -63,6 +63,7 @@
 ### G
 | Status | The names of the games         | Condition | Serial number                 | Covers                                                      |
 |:------:|:-------------------------------|:---------:|:-----------------------------:|:-----------------------------------------------------------:|
+|  [ ]   | GEX Trilogy                    |           |                               |                                                             |
 |  [+]   | Gleylancer & Gynoug Combo Pack | Sealed    | HAC-P-BEQMA LRS227            | ![cover](./covers/Switch/HAC-P-BEQMA_LRS227.jpg)            |
 |  [+]   | Gothic I, II                   | Sealed    | HAC-P-BG9HA TSA-HAC-BG9HA-EUR | ![cover](./covers/Switch/HAC-P-BG9HA_TSA-HAC-BG9HA-EUR.jpg) |
 
@@ -109,7 +110,7 @@
 |  [+]   | Mega Man X Legacy Collection 1+2           | Sealed    | HAC-P-ALGGA 41004E            | ![cover](./covers/Switch/HAC-P-ALGGA_41004E.jpg)            |
 |  [+]   | Mega Man Zero/ZX Legacy Collection         | Sealed    | HAC-P-AS4UA 41018E            | ![cover](./covers/Switch/HAC-P-AS4UA_41018E.jpg)            |
 |  [+]   | Metroid Dread                              | Sealed    | HAC-P-AYL8A TRA-HAC-AYL8A-ITA | ![cover](./covers/Switch/HAC-P-AYL8A_TRA-HAC-AYL8A-ITA.jpg) |
-|  [ ]   | Metroid Prime 4                            |           |                	              |                                                             |
+|  [ ]   | Metroid Prime 4: Beyond                    |           |                	              |                                                             |
 |  [+]   | Metroid Prime Remastered                   | Sealed    | HAC-P-A3SDA TRA-HAC-A3SDA-UKV | ![cover](./covers/Switch/HAC-P-A3SDA_TRA-HAC-A3SDA-UKV.jpg) |
 |  [ ]   | Metal Gear Solid: Master Collection Vol. 1 |           |                               |
 
@@ -173,6 +174,7 @@
 ### T
 | Status | The names of the games                                 | Condition |           Serial number            |                             Covers                              |
 |:------:|:-------------------------------------------------------|:---------:| :--------------------------------: | :--------------------------------------------------------------:|
+|  [ ]   | Terminator 2D: No Fate                                 |           |                                    |                                                                 |
 |  [+]   | Tetris 99                                              | Sealed    | HAC-R-ARZNB TRA-HAC-ARZNB-RURU     | ![cover](./covers/Switch/HAC-R-ARZNB_TRA-HAC-ARZNB-RURU.jpg)    |
 |  [+]   | Teenage Mutant Ninja Turtles: The Cowabunga Collection | Sealed    | HAC-P-A42SA TSA-HAC-A42SA-UXP      | ![cover](./covers/Switch/HAC-P-A42SA_TSA-HAC-A42SA-UXP.jpg)     |
 |  [+]   | Teenage Mutant Ninja Turtles: Shredder's Revenge       | Sealed    | HAC-P-A3UVA TSA-HAC-A3UVA-EUR      | ![cover](./covers/Switch/HAC-P-A3UVA_TSA-HAC-A3UVA-EUR.jpg)     |
