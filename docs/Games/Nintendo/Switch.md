@@ -58,7 +58,7 @@
 |  [ ]   | Flashback 2            |           |                               |                                                             |
 |  [+]   | Front Mission 1ST: LME | Sealed    | HAC-P-A7UQA HAC-A7UQA-EUR     | ![cover](./covers/Switch/HAC-P-A7UQA_HAC-A7UQA-EUR.jpg)     |
 |  [+]   | Front Mission 2        | Sealed    |	HAC-P-A9CQA TSA-HAC-A9CQA-EUR | ![cover](./covers/Switch/HAC-P-A9CQA_TSA-HAC-A9CQA-EUR.jpg) |
-|  [ ]   | Front Mission 3        |           |	                              |                                                             |
+|  [+]   | Front Mission 3        | Sealed    |	HAC-P-BALLA TRA-HAC-BALLA-JPN | ![cover](./covers/Switch/HAC-P-BALLA_TRA-HAC-BALLA-JPN.jpg) |
 
 ### G
 | Status | The names of the games         | Condition | Serial number                 | Covers                                                      |
