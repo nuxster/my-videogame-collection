@@ -34,21 +34,21 @@
 | Status | The names of the games                    | Condition |         Serial number         |                           Covers                            |
 |:------:|:------------------------------------------|:---------:|:-----------------------------:|:-----------------------------------------------------------:|
 |  [ ]   | DAEMON X MACHINA                          |           |                               |                                                             |
-|  [+]   | Darksiders: Genesis                       |  Sealed   | HAC-P-ATYHA TSA-HAC-ATYHA-EUR | ![cover](./covers/Switch/HAC-P-ATYHA_TSA-HAC-ATYHA-EUR.jpg) |
-|  [+]   | Darksiders: Warmastered Edition           |  Sealde   | HAC-P-ASFSA TSA-HAC-ASFSA-EUR | ![cover](./covers/Switch/HAC-P-ASFSA_TSA-HAC-ASFSA-EUR.jpg) |
-|  [+]   | Darksiders II: Deathinitive Edition       |  Sealed   | HAC-P-ATGPA TSA-HAC-ATGPA-EUR | ![cover](./covers/Switch/HAC-P-ATGPA_TSA-HAC-ATGPA-EUR.jpg) |
-|  [+]   | Darksiders III                            |  Sealed   | HAC-P-A3C8A TSA-HAC-A3C8A-EUR | ![cover](./covers/Switch/HAC-P-A3C8A_TSA-HAC-A3C8A-EUR.jpg) |
-|  [+]   | Doom 1,2,3 cover-1                        |  Sealed   | HAC-P-A4KYA LR102CVR          | ![cover](./covers/Switch/HAC-P-A4KYA_LR102CVR.jpg)          |
-|  [+]   | Doom 1,2,3 cover-2                        |  Sealed   | HAC-P-A4KYA LR102CVR          | ![cover](./covers/Switch/HAC-P-A4KYA_LR102CVR_2.jpg)        |
-|  [+]   | Doom 1,2,3 BigBox                         |  Sealed   | HAC-P-A4KYA LR102CVR          | ![cover](./covers/Switch/HAC-P-A4KYA_LR102CVR_3.jpg)        |
-|  [+]   | Doom64                                    |  Sealed   | HAC-P-UMA LR081CVR            | ![cover](./covers/Switch/HAC-P-UMA_LR081CVR.jpg)            |
-|  [+]   | Doom 2016                                 |  Sealed   | HAC-P-AF3BA-USZ 107281A       | ![cover](./covers/Switch/HAC-P-AF3BA-USZ_107281A.jpg)       |
-|  [+]   | Doom Eternal                              |  Sealed   | HAC-P-A6SVA LR154CVR          | ![cover](./covers/Switch/HAC-P-A6SVA_LR154CVR.jpg)          |
-|  [ ]   | Doom 1+ Doom 2                            |           |                               |                                                             |
+|  [+]   | Darksiders: Genesis                       | Sealed    | HAC-P-ATYHA TSA-HAC-ATYHA-EUR | ![cover](./covers/Switch/HAC-P-ATYHA_TSA-HAC-ATYHA-EUR.jpg) |
+|  [+]   | Darksiders: Warmastered Edition           | Sealde    | HAC-P-ASFSA TSA-HAC-ASFSA-EUR | ![cover](./covers/Switch/HAC-P-ASFSA_TSA-HAC-ASFSA-EUR.jpg) |
+|  [+]   | Darksiders II: Deathinitive Edition       | Sealed    | HAC-P-ATGPA TSA-HAC-ATGPA-EUR | ![cover](./covers/Switch/HAC-P-ATGPA_TSA-HAC-ATGPA-EUR.jpg) |
+|  [+]   | Darksiders III                            | Sealed    | HAC-P-A3C8A TSA-HAC-A3C8A-EUR | ![cover](./covers/Switch/HAC-P-A3C8A_TSA-HAC-A3C8A-EUR.jpg) |
+|  [+]   | Doom 1,2,3 cover-1                        | Sealed    | HAC-P-A4KYA LR102CVR          | ![cover](./covers/Switch/HAC-P-A4KYA_LR102CVR.jpg)          |
+|  [+]   | Doom 1,2,3 cover-2                        | Sealed    | HAC-P-A4KYA LR102CVR          | ![cover](./covers/Switch/HAC-P-A4KYA_LR102CVR_2.jpg)        |
+|  [+]   | Doom 1,2,3 BigBox                         | Sealed    | HAC-P-A4KYA LR102CVR          | ![cover](./covers/Switch/HAC-P-A4KYA_LR102CVR_3.jpg)        |
+|  [+]   | Doom64                                    | Sealed    | HAC-P-UMA LR081CVR            | ![cover](./covers/Switch/HAC-P-UMA_LR081CVR.jpg)            |
+|  [+]   | Doom 2016                                 | Sealed    | HAC-P-AF3BA-USZ 107281A       | ![cover](./covers/Switch/HAC-P-AF3BA-USZ_107281A.jpg)       |
+|  [+]   | Doom Eternal                              | Sealed    | HAC-P-A6SVA LR154CVR          | ![cover](./covers/Switch/HAC-P-A6SVA_LR154CVR.jpg)          |
+|  [+]   | Doom 1+ Doom 2                            | Sealed    | HAC-P-BG53A LRS283-CVR        | ![cover](./covers/Switch/HAC-P-BG53A_LRS283-CVR.jpg)        |
 |  [ ]   | Double Dragon Gaiden: Rise of the Dragons |           |                               |                                                             |
-|  [+]   | Disney Classic Games Collection           |  Sealed   | HAC-P-AVEPD 3016363           | ![cover](./covers/Switch/HAC-P-AVEPD_3016363.jpg)           |
-|  [+]   | Dusk                                      |  Sealed   | HAC-P-A76WA LR118CVR          | ![cover](./covers/Switch/HAC-P-A76WA_LR118CVR.jpg)          |
-|  [+]   | Diablo 3                                  |  Sealed   | HAC-P-AQ3FA TSA-HAC-AQ3FA-UKV | ![cover](./covers/Switch/HAC-P-AQ3FA_TSA-HAC-AQ3FA-UKV.jpg) |
+|  [+]   | Disney Classic Games Collection           | Sealed    | HAC-P-AVEPD 3016363           | ![cover](./covers/Switch/HAC-P-AVEPD_3016363.jpg)           |
+|  [+]   | Dusk                                      | Sealed    | HAC-P-A76WA LR118CVR          | ![cover](./covers/Switch/HAC-P-A76WA_LR118CVR.jpg)          |
+|  [+]   | Diablo 3                                  | Sealed    | HAC-P-AQ3FA TSA-HAC-AQ3FA-UKV | ![cover](./covers/Switch/HAC-P-AQ3FA_TSA-HAC-AQ3FA-UKV.jpg) |
 
 ### F
 | Status | The names of the games | Condition | Serial number                 | Covers                                                      |    
@@ -63,7 +63,7 @@
 ### G
 | Status | The names of the games         | Condition | Serial number                 | Covers                                                      |
 |:------:|:-------------------------------|:---------:|:-----------------------------:|:-----------------------------------------------------------:|
-|  [ ]   | GEX Trilogy                    |           |                               |                                                             |
+|  [+]   | GEX Trilogy                    | Sealed    | HAC-P-BN25A LRS280-CVR        | ![cover](./covers/Switch/HAC-P-BN25A_LRS280-CVR.jpg)        |
 |  [+]   | Gleylancer & Gynoug Combo Pack | Sealed    | HAC-P-BEQMA LRS227            | ![cover](./covers/Switch/HAC-P-BEQMA_LRS227.jpg)            |
 |  [+]   | Gothic I, II                   | Sealed    | HAC-P-BG9HA TSA-HAC-BG9HA-EUR | ![cover](./covers/Switch/HAC-P-BG9HA_TSA-HAC-BG9HA-EUR.jpg) |
 
@@ -112,7 +112,8 @@
 |  [+]   | Metroid Dread                              | Sealed    | HAC-P-AYL8A TRA-HAC-AYL8A-ITA | ![cover](./covers/Switch/HAC-P-AYL8A_TRA-HAC-AYL8A-ITA.jpg) |
 |  [ ]   | Metroid Prime 4: Beyond                    |           |                	              |                                                             |
 |  [+]   | Metroid Prime Remastered                   | Sealed    | HAC-P-A3SDA TRA-HAC-A3SDA-UKV | ![cover](./covers/Switch/HAC-P-A3SDA_TRA-HAC-A3SDA-UKV.jpg) |
-|  [ ]   | Metal Gear Solid: Master Collection Vol. 1 |           |                               |
+|  [ ]   | Metal Gear Solid: Master Collection Vol. 1 |           |                               |                                                             |
+|  [+]   | Mortal Kombat: Legacy Kollection           | Sealed    | HAC-P-BNMGA HAC-BNMGA-EUR     | ![cover](./covers/Switch/HAC-P-BNMGA_HAC-BNMGA-EUR.jpg)     |
 
 ### N
 | Status | The names of the games                     | Condition | Serial number                 | Covers                                                      |
@@ -121,12 +122,12 @@
 |  [+]   | NEOGEO Selection Vol.2                     | Sealed    | HAC-P-BK45A TRA-HAC-BK45A-JPN | ![cover](./covers/Switch/HAC-P-BK45A_TRA-HAC-BK45A-JPN.jpg) |
 |  [+]   | NEOGEO Selection Vol.3                     | Sealed    | HAC-P-BMRHA TRA-HAC-BMRHA-JPN | ![cover](./covers/Switch/HAC-P-BMRHA_TRA-HAC-BMRHA-JPN.jpg) |
 |  [+]   | NEOGEO Selection Vol.4                     | Sealed    | HAC-P-BMRJA TRA-HAC-BMRJA-JPN | ![cover](./covers/Switch/HAC-P-BMRJA_TRA-HAC-BMRJA-JPN.jpg) |
-|  [ ]   | NEOGEO Selection Vol.5                     |           |                               |                                                             |
-|  [ ]   | NEOGEO Selection Vol.6                     |           |                               |                                                             |
-|  [ ]   | NEOGEO Selection Vol.7                     |           |                               |                                                             |
-|  [ ]   | NEOGEO Selection Vol.8                     |           |                               |                                                             |
-|  [ ]   | NEOGEO Selection Vol.9                     |           |                               |                                                             |
-|  [ ]   | NEOGEO Selection Vol.10                    |           |                               |                                                             |
+|  [+]   | NEOGEO Selection Vol.5                     | Sealed    | HAC-P-BPN3A TRA-HAC-BPN3A-JPN | ![cover](./covers/Switch/HAC-P-BPN3A_TRA-HAC-BPN3A-JPN.jpg) |
+|  [+]   | NEOGEO Selection Vol.6                     | Sealed    | HAC-P-BPN4A TRA-HAC-BPN4A-JPN | ![cover](./covers/Switch/HAC-P-BPN4A_TRA-HAC-BPN4A-JPN.jpg) |
+|  [+]   | NEOGEO Selection Vol.7                     | Sealed    | HAC-P-BRE4A TRA-HAC-BRE4A-JPN | ![cover](./covers/Switch/HAC-P-BRE4A_TRA-HAC-BRE4A-JPN.jpg) |
+|  [+]   | NEOGEO Selection Vol.8                     | Sealed    | HAC-P-BRE6A TRA-HAC-BRE6A-JPN | ![cover](./covers/Switch/HAC-P-BRE6A_TRA-HAC-BRE6A-JPN.jpg) |
+|  [+]   | NEOGEO Selection Vol.9                     | Sealed    | HAC-P-BR3MA TRA-HAC-BR3MA-JPN | ![cover](./covers/Switch/HAC-P-BR3MA_TRA-HAC-BR3MA-JPN.jpg) |
+|  [+]   | NEOGEO Selection Vol.10                    | Sealed    | HAC-P-BR3NA TRA-HAC-BR3NA-JPN | ![cover](./covers/Switch/HAC-P-BR3NA_TRA-HAC-BR3NA-JPN.jpg) |
 |  [+]   | Ninja Gaiden: Ragebound                    | Sealed    | HAC-P-BLC6A TSA-HAC-BLC6A-EUR | ![cover](./covers/Switch/HAC-P-BLC6A_TSA-HAC-BLC6A-EUR.jpg) |
 
 ### O
@@ -167,14 +168,14 @@
 |  [ ]   | Star Wars: Jedi Knight Collection          |           |                                    |                                                                 |
 |  [ ]   | Star Wars: Republic Commando               |           |                                    |                                                                 |
 |  [+]   | Super Meat Boy                             | Sealed    | HAC-P-AHNXA LR028CVR               | ![cover](./covers/Switch/HAC-P-AHNXA_LR028CVR.jpg)              |
-|  [ ]   | Syberia                                    |           |                                    |                                                                 |
+|  [+]   | Syberia                                    | Sealed    | HAC-P-AD77A TSA-HAC-AD77A-FAH      | ![cover](./covers/Switch/HAC-P-AD77A_TSA-HAC-AD77A-FAH.jpg)     |
 |  [+]   | Syberia 2                                  | Sealed    | HAC-P-AD78A TSA-HAC-AD78A-EUZ      | ![cover](./covers/Switch/HAC-P-AD78A_TSA-HAC-AD78A-EUZ.jpg)     |
 |  [+]   | Syberia 3                                  | Sealed    | HAC-P-AFLPA TSA-HAC-AFLPA-EUR      | ![cover](./covers/Switch/HAC-P-AFLPA_TSA-HAC-AFLPA-EUR.jpg)     |
      
 ### T
 | Status | The names of the games                                 | Condition |           Serial number            |                             Covers                              |
 |:------:|:-------------------------------------------------------|:---------:| :--------------------------------: | :--------------------------------------------------------------:|
-|  [ ]   | Terminator 2D: No Fate                                 |           |                                    |                                                                 |
+|  [+]   | Terminator 2D: No Fate DO                              | Sealed    | HAC-P-BLS8A HAC-BLS8A-EUR          | ![cover](./covers/Switch/HAC-P-BLS8A_HAC-BLS8A-EUR.jpg)         |
 |  [+]   | Tetris 99                                              | Sealed    | HAC-R-ARZNB TRA-HAC-ARZNB-RURU     | ![cover](./covers/Switch/HAC-R-ARZNB_TRA-HAC-ARZNB-RURU.jpg)    |
 |  [+]   | Teenage Mutant Ninja Turtles: The Cowabunga Collection | Sealed    | HAC-P-A42SA TSA-HAC-A42SA-UXP      | ![cover](./covers/Switch/HAC-P-A42SA_TSA-HAC-A42SA-UXP.jpg)     |
 |  [+]   | Teenage Mutant Ninja Turtles: Shredder's Revenge       | Sealed    | HAC-P-A3UVA TSA-HAC-A3UVA-EUR      | ![cover](./covers/Switch/HAC-P-A3UVA_TSA-HAC-A3UVA-EUR.jpg)     |
@@ -191,7 +192,7 @@
 |  [+]   | The Messenger                                          | Sealed    | HAC-P-AQ7PE DD67321C               | ![cover](./covers/Switch/HAC-P-AQ7PE_DD67321C.jpg)              |
 |  [+]   | Toaplan Arcade Garage: KYUKYOKU TIGER-HELO             | Sealed    | HAC-P-BDL3A LRS217                 | ![cover](./covers/Switch/HAC-P-BDL3A_LRS217.jpg)                |
 |  [+]   | Tomb Raider I-II-III Remastered                        | Sealed    | HAC-P-BDHRA TSA-HAC-BDHRA-UKV      | ![cover](./covers/Switch/HAC-P-BDHRA_TSA-HAC-BDHRA-UKV.jpg)     |
-|  [ ]   | Tomb Raider IV-VI-VII Remastered                       |           |                                    |                                                                 |
+|  [+]   | Tomb Raider IV-VI-VII Remastered                       | Sealed    | HAC-P-BELEA TSA-HAC-BELEA-UXP1     | ![cover](./covers/Switch/HAC-P-BELEA_TSA-HAC-BELEA-UXP1.jpg)    |
 |  [+]   | Trigger Witch                                          | Sealed    | HAC-P-A3KYA(ASI) TRA-HAC-A3KYA-ASI | ![cover](./covers/Switch/HAC-P-A3KYA-ASI_TRA-HAC-A3KYA-ASI.jpg) |
 |  [ ]   | Turok: Dinosaur Hunter                                 |           |                                    |                                                                 |
 |  [ ]   | Turok 2: Seeds of Evil                                 |           |                                    |                                                                 |
@@ -206,3 +207,8 @@
 | Status | The names of the games                                | Condition | Serial number                  | Covers                                                      |
 |:------:|:------------------------------------------------------|:---------:|:------------------------------:|:-----------------------------------------------------------:|
 | [+]    | Zero Tolerance: Collection                            | Sealed    | HAC-P-A7ZJA TSA-HAC-A7ZJA-UXP  | ![cover](./covers/Switch/HAC-P-A7ZJA_TSA-HAC-A7ZJA-UXP.jpg) |
+
+### 2
+| Status | The names of the games                                | Condition | Serial number                  | Covers                                                      |
+|:------:|:------------------------------------------------------|:---------:|:------------------------------:|:-----------------------------------------------------------:|
+| [+]    | 20XX / 30XX                                           | Sealed    | HAC-P-BQ5PA TSA-HAC-BQ5PA-UKV  | ![cover](./covers/Switch/HAC-P-BQ5PA_TSA-HAC-BQ5PA-UKV.jpg) |
