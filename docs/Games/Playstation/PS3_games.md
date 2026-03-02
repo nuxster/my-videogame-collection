@@ -120,6 +120,7 @@
  Status | The names of the games | Region | Condition    | Serial number         | Covers 
 :------:|:-----------------------|:------:|:------------:|:---------------------:|:-------:
  [+]    | Nail'd                 |        |              | BLES 00914            | ![cover](./covers/PS3/BLES_00914.jpg)
+ [+]    | Neir                   |        | Sealed       | BLUS 30481            | ![cover](./covers/PS3/BLUS_30481.jpg)
 
 ### O
  Status | The names of the games | Region | Condition    | Serial number         | Covers 
