@@ -5,6 +5,7 @@
 |   [ ]  | AD&D Baldur's Gate 1,2: EE                 |           |               |                                                |
 |   [ ]  | AD&D Icewind Dale & Planescape Torment: EE |           |               |                                                |
 |   [+]  | AD&D Nverwinter Nights: EE                 | Sealed    | SKY0007       | ![cover](./covers/XBox_One_Series/SKY0007.jpg) |
+|   [ ]  | AD&D Nverwinter Nights 2: EE               |           |               |                                                |
 |   [ ]  | AD&D Pillars of Eternity: CE               |           |               |                                                |
 |   [ ]  | AD&D Pillars of Eternity 2 Deadfire: UE    |           |               |                                                |
 
@@ -32,7 +33,6 @@
 | Status | The names of the games | Condition | Serial number | Covers                                           |
 |:------:|:-----------------------|:---------:|:-------------:|:------------------------------------------------:|
 |   [+]  | Gears of War: UE       | Sealed    | V5 00010      | ![cover](./covers/XBox_One_Series/4V5_00010.jpg) |
-|   [ ]  | Gears of War 4: UE     |           |               |                                                  |
 |   [+]  | Gears of War 4         | Sealed    | 4V9 00013     | ![cover](./covers/XBox_One_Series/4V9_00013.jpg) |
 |   [ ]  | Gears 5: UE            |           |               |                                                  |
 |   [+]  | Gears Tactics          | Sealed    | GFT 00015     | ![cover](./covers/XBox_One_Series/GFT_00015.jpg) |
@@ -76,10 +76,21 @@
 |   [ ]  | No Man's Sky                          |           |               |                |
 
 ### R
-| Status | The names of the games | Condition | Serial number | Covers                                                                  |
-|:------:|:-----------------------|:---------:|:-------------:|:-----------------------------------------------------------------------:|
-|   [+]  | Recore                 | Sealed    | 9Y4 00017     | ![cover](./covers/XBox_One_Series/9Y4_00017.jpg)                        |
-|   [+]  | Rebocop: Rogue City    | Sealed    | NONE          | ![cover](./covers/XBox_One_Series/879f9bf718b1bb08e225a7e66735e683.jpg) |
+| Status | The names of the games           | Condition | Serial number | Covers                                                                  |
+|:------:|:---------------------------------|:---------:|:-------------:|:-----------------------------------------------------------------------:|
+|   [+]  | Recore                           | Sealed    | 9Y4 00017     | ![cover](./covers/XBox_One_Series/9Y4_00017.jpg)                        |
+|   [+]  | Rebocop: Rogue City              | Sealed    | NONE          | ![cover](./covers/XBox_One_Series/879f9bf718b1bb08e225a7e66735e683.jpg) |
+|   [ ]  | Resident Evil Origins Collection |           |               |                                                                         |
+|   [ ]  | Resident Evil 2: remake          |           |               |                                                                         |
+|   [ ]  | Resident Evil 3: remake          |           |               |                                                                         |
+|   [ ]  | Resident Evil 4: remake          |           |               |                                                                         |
+|   [ ]  | Resident Evil 5                  |           |               |                                                                         |
+|   [ ]  | Resident Evil 6                  |           |               |                                                                         |
+|   [ ]  | Resident Evil 7: Biohazard       |           |               |                                                                         |
+|   [ ]  | Resident Evil 8: Village         |           |               |                                                                         |
+|   [+]  | Resident Evil 9: Requiem         | Sealed    | 609 93927     | ![cover](./covers/XBox_One_Series/609_93927.jpg)                        |
+|   [ ]  | Resident Evil: Revelations       |           |               |                                                                         |
+|   [ ]  | Resident Evil: Revelations 2     |           |               |                                                                         |
 
 ### S
 | Status | The names of the games        | Condition | Serial number | Covers                                                                  |
@@ -88,10 +99,6 @@
 |   [+]  | Shadow Tactics                | Sealed    | 583 60200     | ![cover](./covers/XBox_One_Series/583_60200.jpg)                        |
 |   [+]  | Shovel Knight: Treasure Trove | Sealed    | NONE          | ![cover](./covers/XBox_One_Series/3715aa0bc980cb8ba857c31d6735e22a.jpg) |
 |   [ ]  | Skyrim                        |           |               |                                                                         |
-|   [ ]  | Star Wars: Squadrons          |           |               |                                                                         |
-|   [ ]  | Star Wars: JEDI Fallen Order  |           |               |                                                                         | 
-|   [ ]  | Star Wars Battlefront         |           |               |                                                                         | 
-|   [ ]  | Star Wars: Battlefront 2      |           |               |                                                                         | 
 |   [+]  | Sunset Overdrive DO           | Sealed    | 3QT 00028     | ![cover](./covers/XBox_One_Series/3QT_00028.jpg)                        |
 
 ### T
