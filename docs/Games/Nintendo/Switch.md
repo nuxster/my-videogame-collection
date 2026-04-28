@@ -4,7 +4,7 @@
 |  [+]   | AD&D Baldur's Gate: EE                     | Sealed  | NONE                          | ![cover](./covers/Switch/BG_I_II_EE.jpg)                    |
 |  [+]   | AD&D Icewind Dale & Planescape Torment: EE | Sealed  | HAC-P-ARSGA TSA-HAC-ARSFA-UKV | ![cover](./covers/Switch/HAC-P-ARSGA_TSA-HAC-ARSFA-UKV.jpg) |
 |  [+]   | AD&D Nweverwinter Nights: EE               | Sealed  | NONE                          | ![cover](./covers/Switch/NN_EE.jpg)                         |
-|  [ ]   | AD&D Nweverwinter Nights 2: EE             |         |                               |                                                             |
+|  [+]   | AD&D Nweverwinter Nights 2: EE             | Sealed  | HAC-P-BGPHA LRS296-CVR        | ![cover](./covers/Switch/HAC-P-BGPHA_LRS296-CVR.jpg)        |
 |  [ ]   | AD&D Pillars of Eternity                   |         |                               |                                                             |
 |  [+]   | Another world / Flashback                  | Sealed  | HAC-P-AU8WA HAC-AU8WA-EUR     | ![cover](./covers/Switch/HAC-P-AU8WA_HAC-AU8WA-EUR.jpg)     |
 |  [+]   | Axiom Verge                                | Sealed  | HAC-P-AEJQB TSA-HAC-AEJQB-UXP | ![cover](./covers/Switch/HAC-P-AEJQB_TSA-HAC-AEJQB-UXP.jpg) |
@@ -13,19 +13,23 @@
 ### B
 | Status | The names of the games                     | Condition | Serial number                 | Covers                                                      |
 |:------:|:-------------------------------------------|:---------:|:-----------------------------:|:-----------------------------------------------------------:|
+|  [+]   | BloodRayne: ReVamped                       | Sealed    | HAC-P-A3V8A LR126CVR          | ![cover](./covers/Switch/HAC-P-A3V8A_LR126CVR.jpg)          |
+|  [+]   | BloodRayne 2: ReVamped                     | Sealed    | HAC-P-A3V9A LR127CVR          | ![cover](./covers/Switch/HAC-P-A3V9A_LR127CVR.jpg)          |
 |  [+]   | Bloodstained: Curse of The Moon Chronicles | Sealed    | HAC-P-BCDPA TSA-HAC-BCDPA-JPN | ![cover](./covers/Switch/HAC-P-BCDPA_TSA-HAC-BCDPA-JPN.jpg) |
 |  [+]   | Bloodstained: Ritual of The Night          | Sealed    | HAC-P-AB4PA TSA-HAC-AB4PA-UKV | ![cover](./covers/Switch/HAC-P-AB4PA_TSA-HAC-AB4PA-UKV.jpg) |
 
 ### C
-| Status | The names of the games        | Condition | Serial number                 | Covers                                                      |  
-|:------:|:------------------------------|:---------:|:-----------------------------:|:-----------------------------------------------------------:|
-|  [ ]   | Capcom Belt Action Collection |           |                               |                                                             |
-|  [+]   | Castlevania: AC               | Sealed    | HAC-P-ATA9B LR106CVR          | ![cover](./covers/Switch/HAC-P-ATA9B_LR106CVR.jpg)          |
-|  [+]   | Commandos 2: HD Remaster      | Sealed    | HAC-P-AXNYA TSA-HAC-AXNYA-UXP | ![cover](./covers/Switch/HAC-P-AXNYA_TSA-HAC-AXNYA-UXP.jpg) |
-|  [ ]   | Contra AC                     |           |                               |                                                             |
-|  [+]   | Contra: Rogue Corps           | Sealed    | HAC-P-ATCFA 27104-CS          | ![cover](./covers/Switch/HAC-P-ATCFA_27104-CS.jpg)          |
-|  [ ]   | Cuphead                       |           |                               |                                                             |
-|  [+]   | Cyber Shadow                  | Sealed    | Super Rare 128                | ![cover](./covers/Switch/Super_Rare_128.jpg)                |
+| Status | The names of the games              | Condition | Serial number                 | Covers                                                      |  
+|:------:|:------------------------------------|:---------:|:-----------------------------:|:-----------------------------------------------------------:|
+|  [ ]   | Capcom Belt Action Collection       |           |                               |                                                             |
+|  [+]   | Castlevania: Anniversary Collection | Sealed    | HAC-P-ATA9B LR106CVR          | ![cover](./covers/Switch/HAC-P-ATA9B_LR106CVR.jpg)          |
+|  [+]   | Castlevania: Advance Collection     | Sealed    | HAC-P-A3TYA SXA-HAC-A3TYA-JPN | ![cover](./covers/Switch/HAC-P-A3TYA_SXA-HAC-A3TYA-JPN.jpg) |
+|  [+]   | Commandos 2: HD Remaster            | Sealed    | HAC-P-AXNYA TSA-HAC-AXNYA-UXP | ![cover](./covers/Switch/HAC-P-AXNYA_TSA-HAC-AXNYA-UXP.jpg) |
+|  [ ]   | Contra AC                           |           |                               |                                                             |
+|  [+]   | Contra: Rogue Corps                 | Sealed    | HAC-P-ATCFA 27104-CS          | ![cover](./covers/Switch/HAC-P-ATCFA_27104-CS.jpg)          |
+|  [+]   | Crysis 3: Remastered                | Sealed    | HAC-P-AW4VA 5202439           | ![cover](./covers/Switch/HAC-P-AW4VA_5202439.jpg)           |
+|  [ ]   | Cuphead                             |           |                               |                                                             |
+|  [+]   | Cyber Shadow                        | Sealed    | Super Rare 128                | ![cover](./covers/Switch/Super_Rare_128.jpg)                |
 
 ### D
 | Status | The names of the games                    | Condition |         Serial number         |                           Covers                            |
