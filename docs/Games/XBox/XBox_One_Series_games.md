@@ -34,7 +34,7 @@
 |:------:|:-----------------------|:---------:|:-------------:|:------------------------------------------------:|
 |   [+]  | Gears of War: UE       | Sealed    | V5 00010      | ![cover](./covers/XBox_One_Series/4V5_00010.jpg) |
 |   [+]  | Gears of War 4         | Sealed    | 4V9 00013     | ![cover](./covers/XBox_One_Series/4V9_00013.jpg) |
-|   [ ]  | Gears 5: UE            |           |               |                                                  |
+|   [+]  | Gears 5:               | Sealed    | 6ER 00005     | ![cover](./covers/XBox_One_Series/6ER_00005.jpg) |
 |   [+]  | Gears Tactics          | Sealed    | GFT 00015     | ![cover](./covers/XBox_One_Series/GFT_00015.jpg) |
  
 ### H
