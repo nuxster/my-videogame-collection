@@ -30,6 +30,7 @@
 |  [+]   | Commandos 2: HD Remaster            | Sealed    | HAC-P-AXNYA TSA-HAC-AXNYA-UXP | ![cover](./covers/Switch/HAC-P-AXNYA_TSA-HAC-AXNYA-UXP.jpg) |
 |  [ ]   | Contra AC                           |           |                               |                                                             |
 |  [+]   | Contra: Rogue Corps                 | Sealed    | HAC-P-ATCFA 27104-CS          | ![cover](./covers/Switch/HAC-P-ATCFA_27104-CS.jpg)          |
+|  [+]   | Crysis: Remastered                  | Sealed    | HAC-P-AW4TC TSA-HAC-AW4TC-UKV | ![cover](./covers/Switch/HAC-P-AW4TC_TSA-HAC-AW4TC-UKV.jpg) |
 |  [+]   | Crysis 3: Remastered                | Sealed    | HAC-P-AW4VA 5202439           | ![cover](./covers/Switch/HAC-P-AW4VA_5202439.jpg)           |
 |  [+]   | Cuphead                             | Sealed    | HAC-P-ASVUG 8BIT-8107-N1      | ![cover](./covers/Switch/HAC-P-ASVUG_8BIT-8107-N1.jpg)      |
 |  [+]   | Cyber Shadow                        | Sealed    | Super Rare 128                | ![cover](./covers/Switch/Super_Rare_128.jpg)                |
@@ -76,10 +77,11 @@
 |  [+]   | Huntdown               | Sealed    | HAC-P-AGFLA                   | ![cover](./covers/Switch/HAC-P-AGFLA.jpg) |
 
 ### I
-| Status | The names of the games | Condition | Serial number                 | Covers                                                      |
-|:------:|:-----------------------|:---------:|:-----------------------------:|:-----------------------------------------------------------:|
-|  [ ]   | Into the Breach        |           |                               |                                                             |
-|  [+]   | Ion Fury               |           | HAC-P-ASTTA TSA-HAC-ASTTA-UKV | ![cover](./covers/Switch/HAC-P-ASTTA_TSA-HAC-ASTTA-UKV.jpg) |
+| Status | The names of the games        | Condition | Serial number                 | Covers                                                      |
+|:------:|:------------------------------|:---------:|:-----------------------------:|:-----------------------------------------------------------:|
+|  [ ]   | Into the Breach               |           |                               |                                                             |
+|  [+]   | Ion Fury                      | Sealed    | HAC-P-ASTTA TSA-HAC-ASTTA-UKV | ![cover](./covers/Switch/HAC-P-ASTTA_TSA-HAC-ASTTA-UKV.jpg) |
+|  [+]   | Ion Fury: Double Shot Edition | Sealed    | HAC-P-ASTTB TSA-HAC-ASTTB-EUR | ![cover](./covers/Switch/HAC-P-ASTTB_TSA-HAC-ASTTB-EUR.jpg) |
 
 ### J
 | Status | The names of the games                 | Condition | Serial number         | Covers                                              |
