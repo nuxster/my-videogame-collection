@@ -15,6 +15,7 @@
 |:------:|:-------------------------------------------|:---------:|:-----------------------------:|:-----------------------------------------------------------:|
 |  [+]   | BloodRayne: ReVamped                       | Sealed    | HAC-P-A3V8A LR126CVR          | ![cover](./covers/Switch/HAC-P-A3V8A_LR126CVR.jpg)          |
 |  [+]   | BloodRayne 2: ReVamped                     | Sealed    | HAC-P-A3V9A LR127CVR          | ![cover](./covers/Switch/HAC-P-A3V9A_LR127CVR.jpg)          |
+|  [+]   | BloodRayne: BETRAYAL FRESH BITES           | Sealed    | HAC-P-A25DA LR120CVR          | ![cover](./covers/Switch/HAC-P-A25DA_LR120CVR.jpg)          |
 |  [+]   | Bloodstained: Curse of The Moon Chronicles | Sealed    | HAC-P-BCDPA TSA-HAC-BCDPA-JPN | ![cover](./covers/Switch/HAC-P-BCDPA_TSA-HAC-BCDPA-JPN.jpg) |
 |  [+]   | Bloodstained: Ritual of The Night          | Sealed    | HAC-P-AB4PA TSA-HAC-AB4PA-UKV | ![cover](./covers/Switch/HAC-P-AB4PA_TSA-HAC-AB4PA-UKV.jpg) |
 
@@ -24,11 +25,13 @@
 |  [ ]   | Capcom Belt Action Collection       |           |                               |                                                             |
 |  [+]   | Castlevania: Anniversary Collection | Sealed    | HAC-P-ATA9B LR106CVR          | ![cover](./covers/Switch/HAC-P-ATA9B_LR106CVR.jpg)          |
 |  [+]   | Castlevania: Advance Collection     | Sealed    | HAC-P-A3TYA SXA-HAC-A3TYA-JPN | ![cover](./covers/Switch/HAC-P-A3TYA_SXA-HAC-A3TYA-JPN.jpg) |
+|  [+]   | Castlevania: Dominus Cpllection     | Sealed    | HAC-P-BCJMA LRS251-C-CVR      | ![cover](./covers/Switch/HAC-P-BCJMA_LRS251-C-CVR.jpg)      |
+|  [+]   | Castlevania: Dominus Cpllection     | Sealed    | HAC-P-BCJMA LRS251-C-CVR      | ![cover](./covers/Switch/HAC-P-BCJMA_LRS251-C-CVR_.jpg)     | 
 |  [+]   | Commandos 2: HD Remaster            | Sealed    | HAC-P-AXNYA TSA-HAC-AXNYA-UXP | ![cover](./covers/Switch/HAC-P-AXNYA_TSA-HAC-AXNYA-UXP.jpg) |
 |  [ ]   | Contra AC                           |           |                               |                                                             |
 |  [+]   | Contra: Rogue Corps                 | Sealed    | HAC-P-ATCFA 27104-CS          | ![cover](./covers/Switch/HAC-P-ATCFA_27104-CS.jpg)          |
 |  [+]   | Crysis 3: Remastered                | Sealed    | HAC-P-AW4VA 5202439           | ![cover](./covers/Switch/HAC-P-AW4VA_5202439.jpg)           |
-|  [ ]   | Cuphead                             |           |                               |                                                             |
+|  [+]   | Cuphead                             | Sealed    | HAC-P-ASVUG 8BIT-8107-N1      | ![cover](./covers/Switch/HAC-P-ASVUG_8BIT-8107-N1.jpg)      |
 |  [+]   | Cyber Shadow                        | Sealed    | Super Rare 128                | ![cover](./covers/Switch/Super_Rare_128.jpg)                |
 
 ### D
@@ -110,7 +113,7 @@
 |  [+]   | Mega Man X Legacy Collection 1+2           | Sealed    | HAC-P-ALGGA 41004E            | ![cover](./covers/Switch/HAC-P-ALGGA_41004E.jpg)            |
 |  [+]   | Mega Man Zero/ZX Legacy Collection         | Sealed    | HAC-P-AS4UA 41018E            | ![cover](./covers/Switch/HAC-P-AS4UA_41018E.jpg)            |
 |  [+]   | Metroid Dread                              | Sealed    | HAC-P-AYL8A TRA-HAC-AYL8A-ITA | ![cover](./covers/Switch/HAC-P-AYL8A_TRA-HAC-AYL8A-ITA.jpg) |
-|  [ ]   | Metroid Prime 4: Beyond                    |           |                	              |                                                             |
+|  [+]   | Metroid Prime 4: Beyond                    | Sealed    | HAC-P-BGW5A TRA-HAC-BGW5A-UAE | ![cover](./covers/Switch/HAC-P-BGW5A_TRA-HAC-BGW5A-UAE.jpg) |
 |  [+]   | Metroid Prime Remastered                   | Sealed    | HAC-P-A3SDA TRA-HAC-A3SDA-UKV | ![cover](./covers/Switch/HAC-P-A3SDA_TRA-HAC-A3SDA-UKV.jpg) |
 |  [+]   | Mortal Kombat: Legacy Kollection           | Sealed    | HAC-P-BNMGA HAC-BNMGA-EUR     | ![cover](./covers/Switch/HAC-P-BNMGA_HAC-BNMGA-EUR.jpg)     |
 
