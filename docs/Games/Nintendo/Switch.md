@@ -18,6 +18,7 @@
 |  [+]   | BloodRayne: BETRAYAL FRESH BITES           | Sealed    | HAC-P-A25DA LR120CVR          | ![cover](./covers/Switch/HAC-P-A25DA_LR120CVR.jpg)          |
 |  [+]   | Bloodstained: Curse of The Moon Chronicles | Sealed    | HAC-P-BCDPA TSA-HAC-BCDPA-JPN | ![cover](./covers/Switch/HAC-P-BCDPA_TSA-HAC-BCDPA-JPN.jpg) |
 |  [+]   | Bloodstained: Ritual of The Night          | Sealed    | HAC-P-AB4PA TSA-HAC-AB4PA-UKV | ![cover](./covers/Switch/HAC-P-AB4PA_TSA-HAC-AB4PA-UKV.jpg) |
+|  [+]   | Bubsy: The Perfect Collection              | Sealed    | HAC-P-BNAPA LRS293-CVR        | ![cover](./covers/Switch/HAC-P-BNAPA_LRS293-CVR.jpg)        |
 
 ### C
 | Status | The names of the games              | Condition | Serial number                 | Covers                                                      |  
@@ -143,6 +144,7 @@
 ### P
 | Status | The names of the games | Condition |         Serial number         |                           Covers                            |
 |:------:|:-----------------------|:---------:|:-----------------------------:|:-----------------------------------------------------------:|
+|  [+]   | Panzer Paladin         | Sealed    | HAC-P-AXLNA LRPPCVR           | ![cover](./covers/Switch/HAC-P-AXLNA_LRPPCVR.jpg)           |
 |  [+]   | Postal: REDUX          | Sealed    | HAC-P-AX4TA LRPOCVR           | ![cover](./covers/Switch/HAC-P-AX4TA_LRPOCVR.jpg)           |
 |  [+]   | Prodeus                | Sealed    | HAC-P-A7SJA TSA-HAC-A7SJA-UKV | ![cover](./covers/Switch/HAC-P-A7SJA_TSA-HAC-A7SJA-UKV.jpg) |
 
