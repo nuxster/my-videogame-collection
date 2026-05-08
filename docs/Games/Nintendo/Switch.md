@@ -32,6 +32,7 @@
 |  [ ]   | Contra AC                           |           |                               |                                                             |
 |  [+]   | Contra: Rogue Corps                 | Sealed    | HAC-P-ATCFA 27104-CS          | ![cover](./covers/Switch/HAC-P-ATCFA_27104-CS.jpg)          |
 |  [+]   | Crysis: Remastered                  | Sealed    | HAC-P-AW4TC TSA-HAC-AW4TC-UKV | ![cover](./covers/Switch/HAC-P-AW4TC_TSA-HAC-AW4TC-UKV.jpg) |
+|  [+]   | Crysis 2: Remastered                | Sealed    | HAC-P-AW4UA 5202422           | ![cover](./covers/Switch/HAC-P-AW4UA_5202422.jpg)           |
 |  [+]   | Crysis 3: Remastered                | Sealed    | HAC-P-AW4VA 5202439           | ![cover](./covers/Switch/HAC-P-AW4VA_5202439.jpg)           |
 |  [+]   | Cuphead                             | Sealed    | HAC-P-ASVUG 8BIT-8107-N1      | ![cover](./covers/Switch/HAC-P-ASVUG_8BIT-8107-N1.jpg)      |
 |  [+]   | Cyber Shadow                        | Sealed    | Super Rare 128                | ![cover](./covers/Switch/Super_Rare_128.jpg)                |
@@ -118,6 +119,7 @@
 |  [+]   | Metroid Dread                              | Sealed    | HAC-P-AYL8A TRA-HAC-AYL8A-ITA | ![cover](./covers/Switch/HAC-P-AYL8A_TRA-HAC-AYL8A-ITA.jpg) |
 |  [+]   | Metroid Prime 4: Beyond                    | Sealed    | HAC-P-BGW5A TRA-HAC-BGW5A-UAE | ![cover](./covers/Switch/HAC-P-BGW5A_TRA-HAC-BGW5A-UAE.jpg) |
 |  [+]   | Metroid Prime Remastered                   | Sealed    | HAC-P-A3SDA TRA-HAC-A3SDA-UKV | ![cover](./covers/Switch/HAC-P-A3SDA_TRA-HAC-A3SDA-UKV.jpg) |
+|  [+]   | Monument Valley: The Trilogy               | Sealed    | HAC-P-BN98A TSA-HAC-BN98A-UXP | ![cover](./covers/Switch/HAC-P-BN98A_TSA-HAC-BN98A-UXP.jpg) |
 |  [+]   | Mortal Kombat: Legacy Kollection           | Sealed    | HAC-P-BNMGA HAC-BNMGA-EUR     | ![cover](./covers/Switch/HAC-P-BNMGA_HAC-BNMGA-EUR.jpg)     |
 
 ### N
@@ -197,9 +199,7 @@
 |  [+]   | Tomb Raider IV-VI-VII Remastered                       | Sealed    | HAC-P-BELEA TSA-HAC-BELEA-UXP1     | ![cover](./covers/Switch/HAC-P-BELEA_TSA-HAC-BELEA-UXP1.jpg)    |
 |  [+]   | Trigger Witch                                          | Sealed    | HAC-P-A3KYA(ASI) TRA-HAC-A3KYA-ASI | ![cover](./covers/Switch/HAC-P-A3KYA-ASI_TRA-HAC-A3KYA-ASI.jpg) |
 |  [+]   | Turrican: Flashback (30th Anniversary)                 | Sealed    | HAC-P-AZV2A                        | ![cover](./covers/Switch/HAC-P-AZV2A.jpg)                       |
-|  [ ]   | Turok: Dinosaur Hunter                                 |           |                                    |                                                                 |
-|  [ ]   | Turok 2: Seeds of Evil                                 |           |                                    |                                                                 |
-|  [ ]   | Turok 3: Shadow of Oblivion                            |           |                                    |                                                                 |
+|  [+]   | Turok: Trilogy Bundle                                  | Sealed    | HAC-P-BQRWA TSA-HAC-BQRWA-UKV      | ![cover](./covers/Switch/HAC-P-BQRWA_TSA-HAC-BQRWA-UKV.jpg)     |
 
 ### X
 | Status | The names of the games                                 | Condition | Serial number                  | Covers                                            |
