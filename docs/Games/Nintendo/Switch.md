@@ -80,7 +80,7 @@
 ### I
 | Status | The names of the games        | Condition | Serial number                 | Covers                                                      |
 |:------:|:------------------------------|:---------:|:-----------------------------:|:-----------------------------------------------------------:|
-|  [ ]   | Into the Breach               |           |                               |                                                             |
+|  [+]   | Into The Breach               | Sealed    | HAC-P-AQRWA TSA-HAC-AQRWA-UKV | ![cover](./covers/Switch/HAC-P-AQRWA_TSA-HAC-AQRWA-UKV.jpg) |
 |  [+]   | Ion Fury                      | Sealed    | HAC-P-ASTTA TSA-HAC-ASTTA-UKV | ![cover](./covers/Switch/HAC-P-ASTTA_TSA-HAC-ASTTA-UKV.jpg) |
 |  [+]   | Ion Fury: Double Shot Edition | Sealed    | HAC-P-ASTTB TSA-HAC-ASTTB-EUR | ![cover](./covers/Switch/HAC-P-ASTTB_TSA-HAC-ASTTB-EUR.jpg) |
 
@@ -189,9 +189,7 @@
 |  [+]   | The Legend of Zelda: Breath of the Wild                | Sealed    | HAC-P-AAAAA TRA-HAC-AAAAA-UKV      | ![cover](./covers/Switch/HAC-P-AAAAA_TRA-HAC-AAAAA-UKV.jpg)     |
 |  [+]   | The Legend of Zelda: Echoes of Wisdom                  | Sealed    | HAC-P-BDGEA TRA-HAC-BDGEA-UKV      | ![cover](./covers/Switch/HAC-P-BDGEA_TRA-HAC-BDGEA-UKV.jpg)     |
 |  [+]   | The Legend of Zelda: Link's Awakening                  | Sealed    | HAC-P-AR3NA TRA-HAC-AR3NA-UKV      | ![cover](./covers/Switch/HAC-P-AR3NA_TRA-HAC-AR3NA-UKV.jpg)     |
-|  [+]   | The Legend of Zelda: Link's Awakening                  | Sealed    | HAC-P-AR3NA TRA-HAC-AR3NA-CHT      | ![cover](./covers/Switch/HAC-P-AR3NA_TRA-HAC-AR3NA-CHT.jpg)     |
 |  [+]   | The Legend of Zelda: Skyward Sword HD                  | Sealed    | HAC-P-AZ89A TRA-HAC-AZ89A-RURU     | ![cover](./covers/Switch/HAC-P-AZ89A_TRA-HAC-AZ89A-RURU.jpg)    |
-|  [+]   | The Legend of Zelda: Skyward Sword HD                  | Sealed    | HAC-P-AZ89A TRA-HAC-AZ89A-CHT      | ![cover](./covers/Switch/HAC-P-AZ89A_TRA-HAC-AZ89A-CHT.jpg)     |
 |  [+]   | The Legend of Zelda: Tears of the Kingdom              | Sealed    | HAC-P-AXN7A TRA-HAC-AXN7A-UKV      | ![cover](./covers/Switch/HAC-P-AXN7A_TRA-HAC-AXN7A-UKV.jpg)     |
 |  [+]   | The Messenger                                          | Sealed    | HAC-P-AQ7PE DD67321C               | ![cover](./covers/Switch/HAC-P-AQ7PE_DD67321C.jpg)              |
 |  [+]   | Toaplan Arcade Garage: KYUKYOKU TIGER-HELO             | Sealed    | HAC-P-BDL3A LRS217                 | ![cover](./covers/Switch/HAC-P-BDL3A_LRS217.jpg)                |
