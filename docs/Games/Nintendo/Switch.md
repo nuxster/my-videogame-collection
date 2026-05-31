@@ -44,6 +44,9 @@
 |  [+]   | Darksiders: Warmastered Edition           | Sealde    | HAC-P-ASFSA TSA-HAC-ASFSA-EUR | ![cover](./covers/Switch/HAC-P-ASFSA_TSA-HAC-ASFSA-EUR.jpg) |
 |  [+]   | Darksiders II: Deathinitive Edition       | Sealed    | HAC-P-ATGPA TSA-HAC-ATGPA-EUR | ![cover](./covers/Switch/HAC-P-ATGPA_TSA-HAC-ATGPA-EUR.jpg) |
 |  [+]   | Darksiders III                            | Sealed    | HAC-P-A3C8A TSA-HAC-A3C8A-EUR | ![cover](./covers/Switch/HAC-P-A3C8A_TSA-HAC-A3C8A-EUR.jpg) |
+|  []    | Donkey Kong Country Returns HD            |           |                               |                                                             |
+|  []    | Donkey Kong Country: Tropical Freeze      |           |                               |                                                             |
+|  [+]   | Doom 1,2,3                                | Sealed    | HAC-P-A4KYA LR102CVR          | ![cover](./covers/Switch/HAC-P-A4KYA_LR102CVR_0.jpg)        |
 |  [+]   | Doom 1,2,3 cover-1                        | Sealed    | HAC-P-A4KYA LR102CVR          | ![cover](./covers/Switch/HAC-P-A4KYA_LR102CVR.jpg)          |
 |  [+]   | Doom 1,2,3 cover-2                        | Sealed    | HAC-P-A4KYA LR102CVR          | ![cover](./covers/Switch/HAC-P-A4KYA_LR102CVR_2.jpg)        |
 |  [+]   | Doom 1,2,3 BigBox                         | Sealed    | HAC-P-A4KYA LR102CVR          | ![cover](./covers/Switch/HAC-P-A4KYA_LR102CVR_3.jpg)        |
@@ -109,18 +112,23 @@
 |  [+]   | Luigi's Mansion 3                            | Sealed    | HAC-P-AG3JA TRA-HAC-AG3JA-UKV     | ![cover](./covers/Switch/HAC-P-AG3JA_TRA-HAC-AG3JA-UKV.jpg)     |
 
 ### M
-| Status | The names of the games                     | Condition | Serial number                 | Covers                                                      |
-|:------:|:-------------------------------------------|:---------:|:-----------------------------:|:-----------------------------------------------------------:|
-|  [+]   | Mega Man 11                                | Sealed    | HAC-P-ALGCA 41006E            | ![cover](./covers/Switch/HAC-P-ALGCA_41006E.jpg)            |
-|  [+]   | Mega Man Battle Network Legacy Collection  | Sealed    | HAC-P-A8H2A 41030E            | ![cover](./covers/Switch/HAC-P-A8H2A_41030E.jpg)            |
-|  [+]   | Mega Man Legacy Collection 1+2             | Sealed    | HAC-P-AKRVA 41002E            | ![cover](./covers/Switch/HAC-P-AKRVA_41002E.jpg)            |
-|  [+]   | Mega Man X Legacy Collection 1+2           | Sealed    | HAC-P-ALGGA 41004E            | ![cover](./covers/Switch/HAC-P-ALGGA_41004E.jpg)            |
-|  [+]   | Mega Man Zero/ZX Legacy Collection         | Sealed    | HAC-P-AS4UA 41018E            | ![cover](./covers/Switch/HAC-P-AS4UA_41018E.jpg)            |
-|  [+]   | Metroid Dread                              | Sealed    | HAC-P-AYL8A TRA-HAC-AYL8A-ITA | ![cover](./covers/Switch/HAC-P-AYL8A_TRA-HAC-AYL8A-ITA.jpg) |
-|  [+]   | Metroid Prime 4: Beyond                    | Sealed    | HAC-P-BGW5A TRA-HAC-BGW5A-UAE | ![cover](./covers/Switch/HAC-P-BGW5A_TRA-HAC-BGW5A-UAE.jpg) |
-|  [+]   | Metroid Prime Remastered                   | Sealed    | HAC-P-A3SDA TRA-HAC-A3SDA-UKV | ![cover](./covers/Switch/HAC-P-A3SDA_TRA-HAC-A3SDA-UKV.jpg) |
-|  [+]   | Monument Valley: The Trilogy               | Sealed    | HAC-P-BN98A TSA-HAC-BN98A-UXP | ![cover](./covers/Switch/HAC-P-BN98A_TSA-HAC-BN98A-UXP.jpg) |
-|  [+]   | Mortal Kombat: Legacy Kollection           | Sealed    | HAC-P-BNMGA HAC-BNMGA-EUR     | ![cover](./covers/Switch/HAC-P-BNMGA_HAC-BNMGA-EUR.jpg)     |
+| Status | The names of the games                        | Condition | Serial number                 | Covers                                                      |
+|:------:|:----------------------------------------------|:---------:|:-----------------------------:|:-----------------------------------------------------------:|
+|  []    | Mario and Rabbids Sparks of Hope Gold Edition |           |                               |                                                             |
+|  []    | Mario + Rabbids Kingdom Battle                |           |                               |                                                             |
+|  []    | Mario and Luigi Brothership                   |           |                               |                                                             |
+|  []    | Mario vs. Donkey Kong                         |           |                               |                                                             |
+|  []    | Mario Kart 8 Deluxe                           |           |                               |                                                             |
+|  [+]   | Mega Man 11                                   | Sealed    | HAC-P-ALGCA 41006E            | ![cover](./covers/Switch/HAC-P-ALGCA_41006E.jpg)            |
+|  [+]   | Mega Man Battle Network Legacy Collection     | Sealed    | HAC-P-A8H2A 41030E            | ![cover](./covers/Switch/HAC-P-A8H2A_41030E.jpg)            |
+|  [+]   | Mega Man Legacy Collection 1+2                | Sealed    | HAC-P-AKRVA 41002E            | ![cover](./covers/Switch/HAC-P-AKRVA_41002E.jpg)            |
+|  [+]   | Mega Man X Legacy Collection 1+2              | Sealed    | HAC-P-ALGGA 41004E            | ![cover](./covers/Switch/HAC-P-ALGGA_41004E.jpg)            |
+|  [+]   | Mega Man Zero/ZX Legacy Collection            | Sealed    | HAC-P-AS4UA 41018E            | ![cover](./covers/Switch/HAC-P-AS4UA_41018E.jpg)            |
+|  [+]   | Metroid Dread                                 | Sealed    | HAC-P-AYL8A TRA-HAC-AYL8A-ITA | ![cover](./covers/Switch/HAC-P-AYL8A_TRA-HAC-AYL8A-ITA.jpg) |
+|  [+]   | Metroid Prime 4: Beyond                       | Sealed    | HAC-P-BGW5A TRA-HAC-BGW5A-UAE | ![cover](./covers/Switch/HAC-P-BGW5A_TRA-HAC-BGW5A-UAE.jpg) |
+|  [+]   | Metroid Prime Remastered                      | Sealed    | HAC-P-A3SDA TRA-HAC-A3SDA-UKV | ![cover](./covers/Switch/HAC-P-A3SDA_TRA-HAC-A3SDA-UKV.jpg) |
+|  [+]   | Monument Valley: The Trilogy                  | Sealed    | HAC-P-BN98A TSA-HAC-BN98A-UXP | ![cover](./covers/Switch/HAC-P-BN98A_TSA-HAC-BN98A-UXP.jpg) |
+|  [+]   | Mortal Kombat: Legacy Kollection              | Sealed    | HAC-P-BNMGA HAC-BNMGA-EUR     | ![cover](./covers/Switch/HAC-P-BNMGA_HAC-BNMGA-EUR.jpg)     |
 
 ### N
 | Status | The names of the games                     | Condition | Serial number                 | Covers                                                      |
@@ -144,11 +152,12 @@
 |  [ ]   | Ori: The Collection     |           |                               |                                                             |
 
 ### P
-| Status | The names of the games | Condition |         Serial number         |                           Covers                            |
-|:------:|:-----------------------|:---------:|:-----------------------------:|:-----------------------------------------------------------:|
-|  [+]   | Panzer Paladin         | Sealed    | HAC-P-AXLNA LRPPCVR           | ![cover](./covers/Switch/HAC-P-AXLNA_LRPPCVR.jpg)           |
-|  [+]   | Postal: REDUX          | Sealed    | HAC-P-AX4TA LRPOCVR           | ![cover](./covers/Switch/HAC-P-AX4TA_LRPOCVR.jpg)           |
-|  [+]   | Prodeus                | Sealed    | HAC-P-A7SJA TSA-HAC-A7SJA-UKV | ![cover](./covers/Switch/HAC-P-A7SJA_TSA-HAC-A7SJA-UKV.jpg) |
+| Status | The names of the games              | Condition |         Serial number         |                           Covers                            |
+|:------:|:------------------------------------|:---------:|:-----------------------------:|:-----------------------------------------------------------:|
+|  [+]   | Panzer Paladin                      | Sealed    | HAC-P-AXLNA LRPPCVR           | ![cover](./covers/Switch/HAC-P-AXLNA_LRPPCVR.jpg)           |
+|  []    | Paper Mario: The Thousand-Year Door |           |                               |                                                             |
+|  [+]   | Postal: REDUX                       | Sealed    | HAC-P-AX4TA LRPOCVR           | ![cover](./covers/Switch/HAC-P-AX4TA_LRPOCVR.jpg)           |
+|  [+]   | Prodeus                             | Sealed    | HAC-P-A7SJA TSA-HAC-A7SJA-UKV | ![cover](./covers/Switch/HAC-P-A7SJA_TSA-HAC-A7SJA-UKV.jpg) |
 
 ### Q
 | Status | The names of the games | Condition | Serial number        | Covers                                             |
@@ -172,7 +181,11 @@
 |  [+]   | Signalis                                   | Sealed    | HAC-P-A896A TSA-HAC-A896A-UKV      | ![cover](./covers/Switch/HAC-P-A896A_TSA-HAC-A896A-UKV.jpg)     |
 |  [+]   | SNK 40th Anniversary Collection            | Sealed    | HAC-P-AP3TA TSA-HAC-AP3TA-UKV      | ![cover](./covers/Switch/HAC-P-AP3TA_TSA-HAC-AP3TA-UKV.jpg)     |
 |  [+]   | S.T.A.L.K.E.R.: Legends of Zone            | Sealed    | HAC-P-BMJJA(JPN) TSA-HAC-BMJJA-JPN | ![cover](./covers/Switch/HAC-P-BMJJA-JPN_TSA-HAC-BMJJA-JPN.jpg) |
+|  []    | Super Mario Odyssey                        |           |                                    |                                                                 |
+|  []    | Super Mario Bros. Wonder                   |           |                                    |                                                                 | 
+|  []    | Super Mario RPG                            |           |                                    |                                                                 |
 |  [+]   | Super Meat Boy                             | Sealed    | HAC-P-AHNXA LR028CVR               | ![cover](./covers/Switch/HAC-P-AHNXA_LR028CVR.jpg)              |
+|  []    | Super Smash Bros Ultimate                  |           |                                    |                                                                 |
 |  [+]   | Syberia                                    | Sealed    | HAC-P-AD77A TSA-HAC-AD77A-FAH      | ![cover](./covers/Switch/HAC-P-AD77A_TSA-HAC-AD77A-FAH.jpg)     |
 |  [+]   | Syberia 2                                  | Sealed    | HAC-P-AD78A TSA-HAC-AD78A-EUZ      | ![cover](./covers/Switch/HAC-P-AD78A_TSA-HAC-AD78A-EUZ.jpg)     |
 |  [+]   | Syberia 3                                  | Sealed    | HAC-P-AFLPA TSA-HAC-AFLPA-EUR      | ![cover](./covers/Switch/HAC-P-AFLPA_TSA-HAC-AFLPA-EUR.jpg)     |
@@ -200,6 +213,11 @@
 |  [+]   | Trigger Witch                                          | Sealed    | HAC-P-A3KYA(ASI) TRA-HAC-A3KYA-ASI | ![cover](./covers/Switch/HAC-P-A3KYA-ASI_TRA-HAC-A3KYA-ASI.jpg) |
 |  [+]   | Turrican: Flashback (30th Anniversary)                 | Sealed    | HAC-P-AZV2A                        | ![cover](./covers/Switch/HAC-P-AZV2A.jpg)                       |
 |  [+]   | Turok: Trilogy Bundle                                  | Sealed    | HAC-P-BQRWA TSA-HAC-BQRWA-UKV      | ![cover](./covers/Switch/HAC-P-BQRWA_TSA-HAC-BQRWA-UKV.jpg)     |
+
+### W
+| Status | The names of the games                                 | Condition |           Serial number            |                             Covers                              |
+|:------:|:-------------------------------------------------------|:---------:| :--------------------------------: | :--------------------------------------------------------------:|
+|  []    | WarioWare: Move It!                                    |           |                                    |                                                                 |
 
 ### X
 | Status | The names of the games                                 | Condition | Serial number                  | Covers                                            |
