@@ -186,9 +186,9 @@
 |  []    | Super Mario RPG                            |           |                                    |                                                                 |
 |  [+]   | Super Meat Boy                             | Sealed    | HAC-P-AHNXA LR028CVR               | ![cover](./covers/Switch/HAC-P-AHNXA_LR028CVR.jpg)              |
 |  []    | Super Smash Bros Ultimate                  |           |                                    |                                                                 |
-|  [+]   | Syberia                                    | Sealed    | HAC-P-AD77A TSA-HAC-AD77A-FAH      | ![cover](./covers/Switch/HAC-P-AD77A_TSA-HAC-AD77A-FAH.jpg)     |
-|  [+]   | Syberia 2                                  | Sealed    | HAC-P-AD78A TSA-HAC-AD78A-EUZ      | ![cover](./covers/Switch/HAC-P-AD78A_TSA-HAC-AD78A-EUZ.jpg)     |
-|  [+]   | Syberia 3                                  | Sealed    | HAC-P-AFLPA TSA-HAC-AFLPA-EUR      | ![cover](./covers/Switch/HAC-P-AFLPA_TSA-HAC-AFLPA-EUR.jpg)     |
+|  []    | Syberia                                    |           |                                    |                                                                 |
+|  [+]   | Syberia 2                                  | Sealed    | HAC-P-AD78A TSA-HAC-AD78A-FAH      | ![cover](./covers/Switch/HAC-P-AD78A_TSA-HAC-AD78A-FAH.jpg)     |
+|  []    | Syberia 3                                  |           |                                    |                                                                 |
      
 ### T
 | Status | The names of the games                                 | Condition |           Serial number            |                             Covers                              |
