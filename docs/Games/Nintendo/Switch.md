@@ -13,11 +13,13 @@
 ### B
 | Status | The names of the games                     | Condition | Serial number                 | Covers                                                      |
 |:------:|:-------------------------------------------|:---------:|:-----------------------------:|:-----------------------------------------------------------:|
+|  [+]   | Biomutant                                  | Sealed    | HAC-P-A77BA TSA-HAC-A77BA-EUR | ![cover](./covers/Switch/HAC-P-A77BA_TSA-HAC-A77BA-EUR.jpg) |
 |  [+]   | BloodRayne: ReVamped                       | Sealed    | HAC-P-A3V8A LR126CVR          | ![cover](./covers/Switch/HAC-P-A3V8A_LR126CVR.jpg)          |
 |  [+]   | BloodRayne 2: ReVamped                     | Sealed    | HAC-P-A3V9A LR127CVR          | ![cover](./covers/Switch/HAC-P-A3V9A_LR127CVR.jpg)          |
 |  [+]   | BloodRayne: BETRAYAL FRESH BITES           | Sealed    | HAC-P-A25DA LR120CVR          | ![cover](./covers/Switch/HAC-P-A25DA_LR120CVR.jpg)          |
 |  [+]   | Bloodstained: Curse of The Moon Chronicles | Sealed    | HAC-P-BCDPA TSA-HAC-BCDPA-JPN | ![cover](./covers/Switch/HAC-P-BCDPA_TSA-HAC-BCDPA-JPN.jpg) |
 |  [+]   | Bloodstained: Ritual of The Night          | Sealed    | HAC-P-AB4PA TSA-HAC-AB4PA-UKV | ![cover](./covers/Switch/HAC-P-AB4PA_TSA-HAC-AB4PA-UKV.jpg) |
+|  [+]   | Bitmap Bureau Collection                   | Sealed    | HAC-P-BJSNA TSA-HAC-BJSNA-EUR | ![cover](./covers/Switch/HAC-P-BJSNA_TSA-HAC-BJSNA-EUR.jpg) |
 |  [+]   | Bubsy: The Perfect Collection              | Sealed    | HAC-P-BNAPA LRS293-CVR        | ![cover](./covers/Switch/HAC-P-BNAPA_LRS293-CVR.jpg)        |
 
 ### C
@@ -114,6 +116,7 @@
 ### M
 | Status | The names of the games                        | Condition | Serial number                 | Covers                                                      |
 |:------:|:----------------------------------------------|:---------:|:-----------------------------:|:-----------------------------------------------------------:|
+|  [+]   | MARVEL Cosmic Invasion                        | Sealed    | HAC-P-BLVHA TSA-HAC-BLVHA-UXP | ![cover](./covers/Switch/HAC-P-BLVHA_TSA-HAC-BLVHA-UXP.jpg) |
 |  []    | Mario and Rabbids Sparks of Hope Gold Edition |           |                               |                                                             |
 |  []    | Mario + Rabbids Kingdom Battle                |           |                               |                                                             |
 |  []    | Mario and Luigi Brothership                   |           |                               |                                                             |
@@ -144,12 +147,13 @@
 |  [+]   | NEOGEO Selection Vol.9                     | Sealed    | HAC-P-BR3MA TRA-HAC-BR3MA-JPN | ![cover](./covers/Switch/HAC-P-BR3MA_TRA-HAC-BR3MA-JPN.jpg) |
 |  [+]   | NEOGEO Selection Vol.10                    | Sealed    | HAC-P-BR3NA TRA-HAC-BR3NA-JPN | ![cover](./covers/Switch/HAC-P-BR3NA_TRA-HAC-BR3NA-JPN.jpg) |
 |  [+]   | Ninja Gaiden: Ragebound                    | Sealed    | HAC-P-BLC6A TSA-HAC-BLC6A-EUR | ![cover](./covers/Switch/HAC-P-BLC6A_TSA-HAC-BLC6A-EUR.jpg) |
+|  [+]   | No Man's Sky                               | Sealed    | HAC-P-A5WZA TSA-HAC-A5WZA-UKV | ![cover](./covers/Switch/HAC-P-A5WZA_TSA-HAC-A5WZA-UKV.jpg) |
 
 ### O
 | Status | The names of the games  | Condition |         Serial number         |                           Covers                            |
 |:------:|:------------------------|:---------:|:-----------------------------:|:-----------------------------------------------------------:|
-|  [x]   | Operation Wolf: Returns | Sealed    | HAC-P-A7NVA TSA-HAC-A7NVA-EUR | ![cover](./covers/Switch/HAC-P-A7NVA_TSA-HAC-A7NVA-EUR.jpg) |
-|  [ ]   | Ori: The Collection     |           |                               |                                                             |
+|  [+]   | Operation Wolf: Returns | Sealed    | HAC-P-A7NVA TSA-HAC-A7NVA-EUR | ![cover](./covers/Switch/HAC-P-A7NVA_TSA-HAC-A7NVA-EUR.jpg) |
+|  [+]   | Ori: The Collection     | Sealed    | HAC-P-A349A 3347-101          | ![cover](./covers/Switch/HAC-P-A349A_3347-101.jpg)          |
 
 ### P
 | Status | The names of the games              | Condition |         Serial number         |                           Covers                            |
