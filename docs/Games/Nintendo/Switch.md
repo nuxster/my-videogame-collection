@@ -147,7 +147,7 @@
 |  [+]   | NEOGEO Selection Vol.9                     | Sealed    | HAC-P-BR3MA TRA-HAC-BR3MA-JPN | ![cover](./covers/Switch/HAC-P-BR3MA_TRA-HAC-BR3MA-JPN.jpg) |
 |  [+]   | NEOGEO Selection Vol.10                    | Sealed    | HAC-P-BR3NA TRA-HAC-BR3NA-JPN | ![cover](./covers/Switch/HAC-P-BR3NA_TRA-HAC-BR3NA-JPN.jpg) |
 |  [+]   | Ninja Gaiden: Ragebound                    | Sealed    | HAC-P-BLC6A TSA-HAC-BLC6A-EUR | ![cover](./covers/Switch/HAC-P-BLC6A_TSA-HAC-BLC6A-EUR.jpg) |
-|  [+]   | No Man's Sky                               | Sealed    | HAC-P-A5WZA TSA-HAC-A5WZA-UKV | ![cover](./covers/Switch/HAC-P-A5WZA_TSA-HAC-A5WZA-UKV.jpg) |
+|  [+]   | No Man's Sky                               | Sealed    | HAC-P-A5WZA TSA-HAC-A5WZA-EAP | ![cover](./covers/Switch/HAC-P-A5WZA_TSA-HAC-A5WZA-EAP.jpg) |
 
 ### O
 | Status | The names of the games  | Condition |         Serial number         |                           Covers                            |
