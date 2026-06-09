@@ -6,6 +6,7 @@
 |  [+]   | AD&D Nweverwinter Nights: EE               | Sealed  | NONE                          | ![cover](./covers/Switch/NN_EE.jpg)                         |
 |  [+]   | AD&D Nweverwinter Nights 2: EE             | Sealed  | HAC-P-BGPHA LRS296-CVR        | ![cover](./covers/Switch/HAC-P-BGPHA_LRS296-CVR.jpg)        |
 |  [ ]   | AD&D Pillars of Eternity                   |         |                               |                                                             |
+|  [+]   | Angry Video Game Nerd 8-bit                | Sealed  | HAC-P-BN6LA NSW-AVGN8-CVR     | ![cover](./covers/Switch/HAC-P-BN6LA_NSW-AVGN8-CVR.jpg)     |
 |  [+]   | Another world / Flashback                  | Sealed  | HAC-P-AU8WA HAC-AU8WA-EUR     | ![cover](./covers/Switch/HAC-P-AU8WA_HAC-AU8WA-EUR.jpg)     |
 |  [+]   | Axiom Verge                                | Sealed  | HAC-P-AEJQB TSA-HAC-AEJQB-UXP | ![cover](./covers/Switch/HAC-P-AEJQB_TSA-HAC-AEJQB-UXP.jpg) |
 |  [+]   | Axiom Verge 2                              | Sealed  | HAC-P-AWGQA LR123CVR          | ![cover](./covers/Switch/HAC-P-AWGQA_LR123CVR.jpg)          |
@@ -79,9 +80,10 @@
 |  [+]   | Gothic I, II                   | Sealed    | HAC-P-BG9HA TSA-HAC-BG9HA-EUR | ![cover](./covers/Switch/HAC-P-BG9HA_TSA-HAC-BG9HA-EUR.jpg) |
 
 ### H
-| Status | The names of the games | Condition | Serial number                 | Covers                                    |
-|:------:|:-----------------------|:---------:|:-----------------------------:|:-----------------------------------------:|
-|  [+]   | Huntdown               | Sealed    | HAC-P-AGFLA                   | ![cover](./covers/Switch/HAC-P-AGFLA.jpg) |
+| Status | The names of the games | Condition | Serial number                 | Covers                                               |
+|:------:|:-----------------------|:---------:|:-----------------------------:|:----------------------------------------------------:|
+|  [+]   | Hexec + Heretic        | Sealed    | HAC-P-BMS7A LRS295-CVR        | ![cover](./covers/Switch/HAC-P-BMS7A_LRS295-CVR.jpg) |
+|  [+]   | Huntdown               | Sealed    | HAC-P-AGFLA                   | ![cover](./covers/Switch/HAC-P-AGFLA.jpg)            |
 
 ### I
 | Status | The names of the games        | Condition | Serial number                 | Covers                                                      |
