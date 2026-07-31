@@ -127,6 +127,7 @@
 |  [+]   | Mega Man 11                                   | Sealed    | HAC-P-ALGCA 41006E            | ![cover](./covers/Switch/HAC-P-ALGCA_41006E.jpg)            |
 |  [+]   | Mega Man Battle Network Legacy Collection     | Sealed    | HAC-P-A8H2A 41030E            | ![cover](./covers/Switch/HAC-P-A8H2A_41030E.jpg)            |
 |  [+]   | Mega Man Legacy Collection 1+2                | Sealed    | HAC-P-AKRVA 41002E            | ![cover](./covers/Switch/HAC-P-AKRVA_41002E.jpg)            |
+|  [+]   | Mega Man Starforce Legacy Collection          | Sealed    | HAC-P-BRS2A SXB-HAC-BRS2A-JPN | ![cover](./covers/Switch/HAC-P-BRS2A_SXB-HAC-BRS2A-JPN.jpg) |
 |  [+]   | Mega Man X Legacy Collection 1+2              | Sealed    | HAC-P-ALGGA 41004E            | ![cover](./covers/Switch/HAC-P-ALGGA_41004E.jpg)            |
 |  [+]   | Mega Man Zero/ZX Legacy Collection            | Sealed    | HAC-P-AS4UA 41018E            | ![cover](./covers/Switch/HAC-P-AS4UA_41018E.jpg)            |
 |  [+]   | Metroid Dread                                 | Sealed    | HAC-P-AYL8A TRA-HAC-AYL8A-ITA | ![cover](./covers/Switch/HAC-P-AYL8A_TRA-HAC-AYL8A-ITA.jpg) |
