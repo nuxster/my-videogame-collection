@@ -208,6 +208,7 @@
 |  [+]   | Teenage Mutant Ninja Turtles: Splintered Fate DX       | Sealed    | HAC-P-BHCYE TSA-HAC-BHCYE-UXP      | ![cover](./covers/Switch/HAC-P-BHCYE_TSA-HAC-BHCYE-UXP.jpg)     |
 |  [+]   | Teenage Mutant Ninja Turtles: Warth of the Mutants     | Sealed    | HAC-P-BEV4A TSA-HAC-BEV4A-EUR      | ![cover](./covers/Switch/HAC-P-BEV4A_TSA-HAC-BEV4A-EUR.jpg)     |
 |  [+]   | Teenage Mutant Ninja Turtles: Mutants Unleashed        | Sealed    | HAC-P-BDQAA TSA-HAC-BDQAA-UXP      | ![cover](./covers/Switch/HAC-P-BDQAA_TSA-HAC-BDQAA-UXP.jpg)     |
+|  [+]   | The Dosney Afternoon Collection                        | Sealed    | HAC-P-BSLVA TSA-HAC-BSLVA-UXP      | ![cover](./covers/Switch/HAC-P-BSLVA_TSA-HAC-BSLVA-UXP.jpg)     |
 |  [+]   | The Legend of Zelda: Breath of the Wild                | Sealed    | HAC-P-AAAAA TRA-HAC-AAAAA-UKV      | ![cover](./covers/Switch/HAC-P-AAAAA_TRA-HAC-AAAAA-UKV.jpg)     |
 |  [+]   | The Legend of Zelda: Echoes of Wisdom                  | Sealed    | HAC-P-BDGEA TRA-HAC-BDGEA-UKV      | ![cover](./covers/Switch/HAC-P-BDGEA_TRA-HAC-BDGEA-UKV.jpg)     |
 |  [+]   | The Legend of Zelda: Link's Awakening                  | Sealed    | HAC-P-AR3NA TRA-HAC-AR3NA-UKV      | ![cover](./covers/Switch/HAC-P-AR3NA_TRA-HAC-AR3NA-UKV.jpg)     |
