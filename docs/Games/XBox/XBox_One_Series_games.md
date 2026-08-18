@@ -1,13 +1,14 @@
 ### A
-| Status | The names of the games                     | Condition | Serial number | Covers                                         | 
-|:------:|:-------------------------------------------|:---------:|:-------------:|:----------------------------------------------:|
-|   [+]  | AD&D Dark Alliance                         | Sealed    | 1062656       | ![cover](./covers/XBox_One_Series/1062656.jpg) |
-|   [ ]  | AD&D Baldur's Gate 1,2: EE                 |           |               |                                                |
-|   [ ]  | AD&D Icewind Dale & Planescape Torment: EE |           |               |                                                |
-|   [+]  | AD&D Nverwinter Nights: EE                 | Sealed    | SKY0007       | ![cover](./covers/XBox_One_Series/SKY0007.jpg) |
-|   [ ]  | AD&D Nverwinter Nights 2: EE               |           |               |                                                |
-|   [ ]  | AD&D Pillars of Eternity: CE               |           |               |                                                |
-|   [ ]  | AD&D Pillars of Eternity 2 Deadfire: UE    |           |               |                                                |
+| Status | The names of the games                     | Condition | Serial number | Covers                                                                  | 
+|:------:|:-------------------------------------------|:---------:|:-------------:|:-----------------------------------------------------------------------:|
+|   [+]  | AD&D Dark Alliance                         | Sealed    | 1062656       | ![cover](./covers/XBox_One_Series/1062656.jpg)                          |
+|   [ ]  | AD&D Baldur's Gate 1,2: EE                 |           |               |                                                                         |
+|   [ ]  | AD&D Icewind Dale & Planescape Torment: EE |           |               |                                                                         |
+|   [+]  | AD&D Nverwinter Nights: EE                 | Sealed    | SKY0007       | ![cover](./covers/XBox_One_Series/SKY0007.jpg)                          |
+|   [ ]  | AD&D Nverwinter Nights 2: EE               |           |               |                                                                         |
+|   [ ]  | AD&D Pillars of Eternity: CE               |           |               |                                                                         |
+|   [ ]  | AD&D Pillars of Eternity 2 Deadfire: UE    |           |               |                                                                         |
+|   [+]  | Atomic Heart                               | Sealed    | NONE          | ![cover](./covers/XBox_One_Series/53b04798bcc28c2c47f4bd966a840e58.jpg) |
 
 ### C
 | Status | The names of the games    | Condition | Serial number | Covers                                                           |
@@ -20,7 +21,7 @@
 ### D
 | Status | The names of the games              | Condition | Serial number | Covers                                                                  |
 |:------:|:------------------------------------|:---------:|:-------------:|:-----------------------------------------------------------------------:|
-|   [ ]  | Darksiders: Warmastered Edition     |           |               |                                                                         |
+|   [+]  | Darksiders: Warmastered Edition     | Sealed    | 316 04425     | ![cover](./covers/XBox_One_Series/316_04425.jpg)                        |
 |   [+]  | Darksiders II: Deathinitive Edition | Sealed    | 316 02742     | ![cover](./covers/XBox_One_Series/316_02742.jpg)                        |
 |   [+]  | Darksiders III                      | Sealed    | 800 70814     | ![cover](./covers/XBox_One_Series/800_70814.jpg)                        |
 |   [+]  | Darksiders: Genesis                 | Sealed    | 800 74423     | ![cover](./covers/XBox_One_Series/800_74423.jpg)                        |
@@ -40,6 +41,7 @@
 ### H
 | Status | The names of the games             | Condition | Serial number | Covers                                           |
 |:------:|:-----------------------------------|:---------:|:-------------:|:------------------------------------------------:|
+|   [+]  | Halo: Campaign Evolved             | Sealed    | EP2-71137     | ![cover](./covers/XBox_One_Series/EP2-71137.jpg) |
 |   [+]  | Halo: The Master Chief Collecction | Sealed    | RQ2-00028     | ![cover](./covers/XBox_One_Series/RQ2-00028.jpg) |
 |   [+]  | Halo Wars 2: UE                    | Sealed    | 7GS-00001     | ![cover](./covers/XBox_One_Series/7GS-00001.jpg) |
 |   [+]  | Halo 5                             | Sealed    | U9Z-00055     | ![cover](./covers/XBox_One_Series/U9Z-00055.jpg) |
