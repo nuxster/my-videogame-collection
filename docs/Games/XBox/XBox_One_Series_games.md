@@ -82,13 +82,13 @@
 |:------:|:---------------------------------|:---------:|:-------------:|:-----------------------------------------------------------------------:|
 |   [+]  | Recore                           | Sealed    | 9Y4 00017     | ![cover](./covers/XBox_One_Series/9Y4_00017.jpg)                        |
 |   [+]  | Rebocop: Rogue City              | Sealed    | NONE          | ![cover](./covers/XBox_One_Series/879f9bf718b1bb08e225a7e66735e683.jpg) |
-|   [ ]  | Resident Evil Origins Collection |           |               |                                                                         |
+|   [+]  | Resident Evil Origins Collection | Sealed    | 609 31325     | ![cover](./covers/XBox_One_Series/609_31325.jpg)                        |
 |   [ ]  | Resident Evil 2: remake          |           |               |                                                                         |
 |   [ ]  | Resident Evil 3: remake          |           |               |                                                                         |
-|   [ ]  | Resident Evil 4: remake          |           |               |                                                                         |
+|   [ ]  | Resident Evil 4: remake GE       | Sealed    | 609 04251     | ![cover](./covers/XBox_One_Series/609_04251.jpg)                        |
 |   [ ]  | Resident Evil 5                  |           |               |                                                                         |
 |   [ ]  | Resident Evil 6                  |           |               |                                                                         |
-|   [ ]  | Resident Evil 7: Biohazard       |           |               |                                                                         |
+|   [ ]  | Resident Evil 7: Biohazard GE    | Sealed    | 55026         | ![cover](./covers/XBox_One_Series/55026.jpg)                            |
 |   [ ]  | Resident Evil 8: Village         |           |               |                                                                         |
 |   [+]  | Resident Evil 9: Requiem         | Sealed    | 609 93927     | ![cover](./covers/XBox_One_Series/609_93927.jpg)                        |
 |   [ ]  | Resident Evil: Revelations       |           |               |                                                                         |
