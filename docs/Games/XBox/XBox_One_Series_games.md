@@ -84,7 +84,7 @@
 |   [+]  | Rebocop: Rogue City              | Sealed    | NONE          | ![cover](./covers/XBox_One_Series/879f9bf718b1bb08e225a7e66735e683.jpg) |
 |   [+]  | Resident Evil Origins Collection | Sealed    | 609 31325     | ![cover](./covers/XBox_One_Series/609_31325.jpg)                        |
 |   [+]  | Resident Evil 2: remake          | Sealed    | IS71007-X1    | ![cover](./covers/XBox_One_Series/IS71007-X1.jpg)                       |
-|   [ ]  | Resident Evil 3: remake          |           |               |                                                                         |
+|   [+]  | Resident Evil 3: remake          | Sealed    | 55046         | ![cover](./covers/XBox_One_Series/55046.jpg)                            |
 |   [+]  | Resident Evil 4: remake GE       | Sealed    | 609 04251     | ![cover](./covers/XBox_One_Series/609_04251.jpg)                        |
 |   [ ]  | Resident Evil 5                  |           |               |                                                                         |
 |   [ ]  | Resident Evil 6                  |           |               |                                                                         |
