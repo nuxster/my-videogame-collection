@@ -86,12 +86,12 @@
 |   [+]  | Resident Evil 2: remake          | Sealed    | IS71007-X1    | ![cover](./covers/XBox_One_Series/IS71007-X1.jpg)                       |
 |   [+]  | Resident Evil 3: remake          | Sealed    | 55046         | ![cover](./covers/XBox_One_Series/55046.jpg)                            |
 |   [+]  | Resident Evil 4: remake GE       | Sealed    | 609 04251     | ![cover](./covers/XBox_One_Series/609_04251.jpg)                        |
-|   [ ]  | Resident Evil 5                  |           |               |                                                                         |
+|   [+]  | Resident Evil 5                  | Sealed    | 55019         | ![cover](./covers/XBox_One_Series/55019.jpg)                            |
 |   [ ]  | Resident Evil 6                  |           |               |                                                                         |
 |   [+]  | Resident Evil 7: Biohazard GE    | Sealed    | 55026         | ![cover](./covers/XBox_One_Series/55026.jpg)                            |
 |   [+]  | Resident Evil 8: Village         | Sealed    | IS64010-X1V2  | ![cover](./covers/XBox_One_Series/IS64010-X1V2.jpg)                     |
 |   [+]  | Resident Evil 9: Requiem         | Sealed    | 609 93927     | ![cover](./covers/XBox_One_Series/609_93927.jpg)                        |
-|   [ ]  | Resident Evil: Revelations       |           |               |                                                                         |
+|   [+]  | Resident Evil: Revelations       | Sealed    | 55031         | ![cover](./covers/XBox_One_Series/55031.jpg)                            |
 |   [ ]  | Resident Evil: Revelations 2     |           |               |                                                                         |
 
 ### S
