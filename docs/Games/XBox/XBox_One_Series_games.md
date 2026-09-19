@@ -102,6 +102,9 @@
 |   [+]  | Shovel Knight: Treasure Trove | Sealed    | NONE          | ![cover](./covers/XBox_One_Series/3715aa0bc980cb8ba857c31d6735e22a.jpg) |
 |   [ ]  | Skyrim                        |           |               |                                                                         |
 |   [+]  | Sunset Overdrive DO           | Sealed    | 3QT 00028     | ![cover](./covers/XBox_One_Series/3QT_00028.jpg)                        |
+|   [ ]  | Siberia                       |           |               |                                                                         |
+|   [ ]  | Siberia II                    |           |               |                                                                         |
+|   [+]  | Siberia III                   | Sealed    | SYB3X02       | ![cover](./covers/XBox_One_Series/SYB3X02.jpg)                          |
 
 ### T
 | Status | The names of the games | Condition | Serial number | Covers                                              |
