@@ -91,8 +91,9 @@
 |   [+]  | Resident Evil 7: Biohazard GE    | Sealed    | 55026         | ![cover](./covers/XBox_One_Series/55026.jpg)                            |
 |   [+]  | Resident Evil 8: Village         | Sealed    | IS64010-X1V2  | ![cover](./covers/XBox_One_Series/IS64010-X1V2.jpg)                     |
 |   [+]  | Resident Evil 9: Requiem         | Sealed    | 609 93927     | ![cover](./covers/XBox_One_Series/609_93927.jpg)                        |
+|   [+]  | Resident Evil 9: Requiem DE      | Sealed    | OR64031-01    | ![cover](./covers/XBox_One_Series/OR64031-01.jpg)                       |
 |   [+]  | Resident Evil: Revelations       | Sealed    | 55031         | ![cover](./covers/XBox_One_Series/55031.jpg)                            |
-|   [ ]  | Resident Evil: Revelations 2     |           |               |                                                                         |
+|   [+]  | Resident Evil: Revelations 2     | Sealed    | IS71001-X1    | ![cover](./covers/XBox_One_Series/IS71001-X1.jpg)                       |
 
 ### S
 | Status | The names of the games        | Condition | Serial number | Covers                                                                  |
