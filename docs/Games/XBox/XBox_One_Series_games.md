@@ -26,6 +26,8 @@
 |   [+]  | Darksiders III                      | Sealed    | 800 70814     | ![cover](./covers/XBox_One_Series/800_70814.jpg)                        |
 |   [+]  | Darksiders: Genesis                 | Sealed    | 800 74423     | ![cover](./covers/XBox_One_Series/800_74423.jpg)                        |
 |   [+]  | Dead Space                          | Sealed    | NONE          | ![cover](./covers/XBox_One_Series/40a69602727efa2faff0694f6735e5e2.jpg) |
+|   [ ]  | Doom I + Doom II                    |           |               |                                                                         |
+|   [ ]  | Doom 64                             |           |               |                                                                         |
 |   [+]  | Doom 3: BFG Edition                 | Sealed    | ZB17104BCWR2  | ![cover](./covers/XBox_One_Series/ZB17104BCWR2.jpg)                     |
 |   [+]  | Diablo IV                           | Sealed    | NONE          | ![cover](./covers/XBox_One_Series/Diablo_IV.jpg)                        | 
 |   [+]  | Diablo 3: Reaper Of Souls           | Sealed    | 87184 206RU   | ![cover](./covers/XBox_One_Series/87184_206RU.jpg)                      |
@@ -75,7 +77,12 @@
 | Status | The names of the games                | Condition | Serial number | Covers         |
 |:------:|:--------------------------------------|:---------:|:-------------:|:--------------:|
 |   [ ]  | Need for Speed Hot Pursuit Remastered |           |               |                |
-|   [ ]  | No Man's Sky                          |           |               |                |
+
+### U
+| Status | The names of the games  | Condition | Serial number | Covers                                              | 
+|:------:|:------------------------|:---------:|:-------------:|:---------------------------------------------------:|
+|  [ ]   | Quake I                 |           |               |                                                     |
+|  [ ]   | Quake II                |           |               |                                                     |
 
 ### R
 | Status | The names of the games           | Condition | Serial number | Covers                                                                  |
