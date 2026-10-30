@@ -31,6 +31,7 @@
 | [+]    | Halo 3: Legendary Edition     | PAL    | Sealed    | 0707 Part No. X13-87657-01 EN | ![cover](./covers/XBox_360/0707_Part_No_X13-87657-01_EN.jpg) |
 | [+]    | Halo ODST                     | PAL    | Sealed    | 5EA 00024                     | ![cover](./covers/XBox_360/5EA_00024.jpg)                     |
 | [+]    | Halo 4                        | PAL    | Sealed    | HND 00063                     | ![cover](./covers/XBox_360/HND_00063.jpg)                     |
+| [+]    | Halo 4: GOTY                  | PAL    | Sealed    | F3Z 00022                     | ![cover](./covers/XBox_360/F3Z_00022.jpg)                     |
 | [+]    | Halo Wars                     | PAL    | Sealed    | S3M 00022                     | ![cover](./covers/XBox_360/S3M_00022.jpg)                     |
 
 ### K
