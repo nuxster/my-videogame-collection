@@ -118,6 +118,7 @@
 | Status | The names of the games | Condition | Serial number | Covers                                              |
 |:------:|:-----------------------|:---------:|:-------------:|:---------------------------------------------------:|
 |   [+]  | Titanfall              |           | 101281401601  | ![cover](./covers/XBox_One_Series/101281401601.jpg) |
+|   [+]  | Titanfall 2            | Sealed    | 102722901601  | ![cover](./covers/XBox_One_Series/102722901601.jpg) |
 |   [+]  | The Evil Within        | Sealed    | IL-49021-EUK  | ![cover](./covers/XBox_One_Series/IL-49021-EUK.jpg) |
 |   [+]  | The Evil Within 2      | Sealed    | IL-16494-EUK  | ![cover](./covers/XBox_One_Series/IL-16494-EUK.jpg) |
 
